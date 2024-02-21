@@ -25,7 +25,7 @@ Tools:
 ## 3D Part:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|        |[Trepied_PartieInferieure](/../main/hardware/3Dprint_files/Trepied_PartieInferieure.stl)           |         1| partie basse             |Piece dans laquel seront fixer les pieds                                         |          |
+|![Trepied_inf](/../main/doc/picture/partieinférieur_v2.png)        |[Trepied_PartieInferieure](/../main/hardware/3Dprint_files/Trepied_PartieInferieure.stl)           |         1| partie basse             |Piece dans laquel seront fixer les pieds                                         |          |
 |        |           |         1| partie haute             |Pice qui permettra d'attacher l'anneau d'accroche                                          |          |
 |        |           |         2| fermeture du Ber*         |Piece suppérieur de maintient du tube étanche                                         |          |
 |        |           |         2| Ber                      |Piece inférieur de maintient du tube étanche                                         |          |
