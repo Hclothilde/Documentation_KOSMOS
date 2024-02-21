@@ -2,10 +2,10 @@
 To make this project you need : 
 ![piece-2](pictures/equipments/piece-2.jpg)
 
-| visuel | référence | Dénomination | Usage | Conseil |
-|-------:|-----------|--------------|-------|---------|
-|     1|             |              |       |          |
-|     2|             |              |       |          |
-|     3|             |              |       |          |
+| visuel | référence | Quantité | Dénomination | Usage | Conseil |
+|-------:|-----------|----------|--------------|-------|---------|
+|     |             |        1  |              |       |          |
+|     |             |   1       |              |       |          |
+|     |             |    1      |              |       |          |
 
 
