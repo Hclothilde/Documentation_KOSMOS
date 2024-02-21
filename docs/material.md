@@ -1,5 +1,5 @@
-# Material Tripod
-Tools:
+# Materiel Tripod
+## Outils:
 
 ## Visserie:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
@@ -9,20 +9,25 @@ Tools:
 |        |           |        10| écrou M6                 |                                         |          |
 |        |           |         8| écrou nystop  M6         |Evite au montage de se déserrer          |          |
 |        |           |        12| écrou oreille M6         |                                         |          |
-|        |           |         1| mousse en ruban          |Permet d'avoir un contact parfait avec le tube plexy|          |
-|        |           |         1| plaque métalique 30mm*100mm |                                         |          |
-|        |           |         3| poid en plomb            |                                         |          |
 |        |           |        24| rondelle M6              |                                         |          |
-|        |           |         3| sers strip longueur...   |                                         |          |
-|        |           |        2m| tube alu 16*1mm          |                                         |          |
 |        |           |         4| vis M4 longueur 20mm     |                                         |          |
 |        |           |         2| vis M4 longueur 40mm     |                                         |          |
 |        |           |         3| vis M6 longueur 50mm     |                                         |          |
 |        |           |         1| vis M10 longueur 40mm    |                                         |          |
 
 
+## Pièces:
+| Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
+|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
+|        |           |         1| mousse en ruban          |Permet d'avoir un contact parfait avec le tube plexy|          |
+|        |           |         1| plaque métalique 30mm*100mm |                                         |          |
+|        |           |         3| poid en plomb            |                                         |          |
+|        |           |         3| sers strip longueur...   |                                         |          |
+|        |           |        2m| tube alu 16*1mm          |                                         |          |
 
-## 3D Part:
+
+
+## Impression 3D:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |![Trepied_inf](/../main/docs/pictures/3Dpart/partieInferieur.png)        |[Trepied_PartieInferieure](/../main/hardware/3Dprint_files/Trepied_PartieInferieure.stl)           |         1| partie basse             |Piece dans laquel seront fixer les pieds                                         |          |
