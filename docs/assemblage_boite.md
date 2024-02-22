@@ -13,7 +13,7 @@ Vous trouverez le materiel necessaire pour assembler la totalité de la boite [i
   <summary> Materiel </summary>
   
   * raspberry
-  * cable usb
+  * [cable](https://github.com/Hclothilde/Documentation_KOSMOS/blob/main/docs/materiel_boite.md#cable)
     
 </details>
 
