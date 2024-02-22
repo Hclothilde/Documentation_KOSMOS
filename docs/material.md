@@ -23,6 +23,7 @@
 |        |           |         1| plaque métalique 30mm*100mm |                                         |          |
 |        |           |         3| poid en plomb            |                                         |          |
 |        |           |         3| sers strip longueur...   |                                         |          |
+|        |           |      1m50| tige filletée M6         |                                         |          |
 |        |           |        2m| tube alu 16*1mm          |                                         |          |
 
 
