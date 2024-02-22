@@ -9,6 +9,7 @@
 |        |           |         6|vis M6  longueur:         |Permet la fermeture du boitier étanche             |          |
 |        |           |         4|"vis support hexagonale"  |Permet de surelever la carte                             |          |
 
+Certaine vis sont comprises dans certains kits, danc le tableau ci-dessus vous trouverez toutes les vis nécessaire y compris celles intégrées dans certains kits.
 
 ## Cable:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
