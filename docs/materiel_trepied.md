@@ -31,10 +31,11 @@
 ## Impression 3D:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![Trepied_inf](/../main/docs/pictures/3Dpart/partieInferieur.png)        |[Trepied_PartieInferieure](/../main/hardware/3Dprint_files/Trepied_PartieInferieure.stl)           |         1| partie basse             |Piece dans laquel seront fixer les pieds                                         |          |
-|        |           |         1| partie haute             |Pice qui permettra d'attacher l'anneau d'accroche                                          |          |
-|        |           |         2| fermeture du Ber*         |Piece suppérieur de maintient du tube étanche                                         |          |
-|        |           |         2| Ber                      |Piece inférieur de maintient du tube étanche                                         |          |
+|![Trepied_inf](/../main/docs/pictures/3Dpart/partieInferieur.png)        |[Trepied_SocleInferieur](/../main/hardware/3Dprint_files/Trepied_SocleInferieur.stl)           |         1| partie basse             |Piece dans laquel seront fixer les pieds                                         |          |
+|        |[Trepied_SocleSupérieur](/../main/hardware/3Dprint_files/Trepied_SocleSupérieur.stl)           |         1| partie haute             |Piece qui permettra d'attacher l'anneau d'accroche                                          |          |
+|        |[Trepied_CollierInférieur](/../main/hardware/3Dprint_files/Trepied_CollierInférieur.stl)             |         2| Ber*                      |Piece inférieur de maintient du tube étanche                                         |          |
+|        |[Trepied_CollierSupérieur](/../main/hardware/3Dprint_files/Trepied_CollierSupérieur.stl)             |         2| fermeture du Ber         |Piece suppérieur de maintient du tube étanche                                         |          |
+
 
 *Ber : correspont en marine à la charpente qui maintient un bateau en traveaux
 
