@@ -21,10 +21,14 @@
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |        |           |         1| batterie 15Ah            |                                         |          |
-|        |           |         1| boitier 240*160*90       |                                         |          |
 |        |           |         1| bouton poussoir vert     |                                         |          |
 |        |           |         1| clavier                  |                                         |          |
 |        |           |         1| commutateur              |                                         |          |
 |        |           |         1| kit d'extension ethernet |                                         |          |
 |        |           |         1| raspberry PI4 4GB        |                                         |          |
 |        |           |         1| ventillateur 5V          |                                         |          | 
+
+## Pièce:
+| Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
+|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
+|        |           |         1| boitier 240*160*90       |                                         |          |
