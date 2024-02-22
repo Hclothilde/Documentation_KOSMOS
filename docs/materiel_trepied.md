@@ -1,4 +1,4 @@
-# Materiel Tripod
+# Materiel Trepied
 ## Outils:
 
 ## Visserie:
