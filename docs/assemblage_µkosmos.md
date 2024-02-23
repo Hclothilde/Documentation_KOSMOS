@@ -59,7 +59,7 @@ Le principe est le même que pour les câbles reliés au commutateur
 - enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)   
 - souder les cables rouges ensemble et les cables noirs ensemble  
 
-### Relier des "cables fin vert" au bouton poussoir  
+### Relier des cables de prototypage au bouton poussoir  
 
 > [!NOTE]
 > Ce cable fera le lien entre le bouton poussoir et la raspberry. Il permer ""
