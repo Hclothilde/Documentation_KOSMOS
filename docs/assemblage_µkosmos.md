@@ -41,7 +41,7 @@
 > Optionel : connecteur cosse  
 > Ici des connecteurs cosses ont été utilisés mais ils ne sont pas obligatoires vous pouvez simplement réaliser des soudures entre les pins et les câbles
 > 
-> Il est également important de noté que le commutateur peut lui aussi est modifié, vous aurez seulement besoin d'un intérupteur "qui reste dans sa position après l'appui"
+> Il est également important de noté que le commutateur peut lui aussi est modifié, vous aurez seulement besoin d'un intérupteur avec auto maintient (qui reste dans sa position losrque l'ont appui dessus)
 
 - couper le cable USB à une trentaine de centimètre du branchement USB  
 - enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)  
