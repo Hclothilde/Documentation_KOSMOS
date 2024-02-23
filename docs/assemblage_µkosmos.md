@@ -83,7 +83,7 @@ brancher la "trame"
 ## Etape n - Perçage des trous dans le boitier
 
 > [!NOTE]
-> Il est important de faire un trou de plus que le nombre de connecteur pour que l'air puisse circuler.
+> Il est important dd'ajouter une ouverture pour que l'air puisse circuler.
 
 
 - Percer un trou à tel endroit (schéma)  
