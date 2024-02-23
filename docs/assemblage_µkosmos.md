@@ -2,12 +2,12 @@
 <details open>
   <summary> Sommaire </summary>
   
-  1. [Assemblage du boitier électronique](assemblage_µkosmos.md##Assemblage-du-boitier-électronique)
-  2. [Assemblage du caison vidéo](assemblage_µkosmos.md##Assemblage-du-caisson-video)
-  3. [Assemblage du trépried](assemblage_µkosmos.md##Assemblage-du-trépied)
-  4. [Assemblage du casque](assemblage_µkosmos.md##Assemblage-du-casque)
-  5. [Assemblage du cable](assemblage_µkosmos.md##Assemblage-du-cable)
-  6. [Assemblage de la paravane](assemblage_µkosmos.md##Assemblage-de-la-paravane)
+  1. [Assemblage du boitier électronique](assemblage_µkosmos.md##1-assemblage-du-boitier-électronique)
+  2. [Assemblage du caison vidéo](assemblage_µkosmos.md##2-assemblage-du-caisson-video)
+  3. [Assemblage du trépried](assemblage_µkosmos.md##3-assemblage-du-trépied)
+  4. [Assemblage du casque](assemblage_µkosmos.md##4-assemblage-du-casque)
+  5. [Assemblage du cable](assemblage_µkosmos.md##5-assemblage-du-cable)
+  6. [Assemblage de la paravane](assemblage_µkosmos.md##6-assemblage-de-la-paravane)
       
 </details>
 
@@ -15,11 +15,11 @@
 <details>
   <summary> Outils </summary>
   
-  * gaine thermo {[Etape 1](assemblage_µkosmos.md##-Etape-1---Réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
-  * matériel soudure {[Etape 1](assemblage_µkosmos.md##-Etape-1---Réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
-  * couronne de forage (diamètre:...) {[Etape n](assemblage_µkosmos.md##-Etape-n---Perçage-des-trous-dans-le-boitier)}
-  * foret (diametre: ..) {[Etape n](assemblage_µkosmos.md##-Etape-n---Perçage-des-trous-dans-le-boitier)}
-  * perceuse {[Etape n](assemblage_µkosmos.md##-Etape-n---Perçage-des-trous-dans-le-boitier)}
+  * gaine thermo {[Etape 1](assemblage_µkosmos.md##etape-1---réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
+  * matériel soudure {[Etape 1](assemblage_µkosmos.md##etape-1---réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
+  * couronne de forage (diamètre:...) {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
+  * foret (diametre: ..) {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
+  * perceuse {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
   
 </details>
 
@@ -35,55 +35,60 @@
 ### Relier un cable USB à un cable micro USB en passant par le commutateur 
 
 > [!NOTE]
-> Ce cable fera le lien entre la batterie et la Raspberry et permetta d'alimenter la carte. Le commutateur permet de couper le courant sans débrancher les câbles
+> Ce cable fera le lien entre la batterie et la Raspberry et permetta d'alimenter la carte. Le commutateur permet de couper le courant sans débrancher les câbles.
 
 > [!TIP]
-> Optionel : connecteur cosse
-> Ici des connecteurs cosses ont été utilisé mais il ne sont pas obligatoire vous pouvez simplement réaliser une soudure entre les pins et les câbles
+> Optionel : connecteur cosse  
+> Ici des connecteurs cosses ont été utilisés mais ils ne sont pas obligatoires vous pouvez simplement réaliser des soudures entre les pins et les câbles
+> 
+> Il est également important de noté que le commutateur peut lui aussi est modifié, vous aurez seulement besoin d'un intérupteur "qui reste dans sa position après l'appui"
 
-couper le cable USB à une trentaine de centimètre du branchement USB  
-enfiler la gaine thermo sur le câble (elle sera chauffé en dernier)  
-utiliser les conncteurs cosse pour faire le lien entre les pins du commutateur et le cable de l'alimentation, brancher le fil noir et le fil rouge  
-chauffer la gaine thermo pour recouvrir tous les fils  
-répéter les même étape que pour le côté avec le cable micro USB et le commutateur  
+- couper le cable USB à une trentaine de centimètre du branchement USB  
+- enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)  
+- utiliser les connecteurs cosses pour faire le lien entre les pins du commutateur et le cable USB, brancher le fil noir et le fil rouge  
+- chauffer la gaine thermo pour recouvrir tous les fils  
+- répéter les mêmes étapes que pour le côté avec le cable micro USB et le commutateur  
 
 ### Relier un cable USB au ventillo
 
 > [!NOTE]
-> Ce cable fera le lien entre le ventilateur et la raspberry. Brancher le ventillateur sur la carte pemet de l'alimenter et de le faire fonctionner.
+> Ce cable fera le lien entre le ventilateur et la raspberry. Brancher le ventilateur sur la carte pemet de l'alimenter et de le faire fonctionner.
 
-couper le câble USB à une trentaine de centimètre du branchement USB  
-enfiler la gaine thermo sur le câble (elle sera chauffé lors de la dernière étape)  
-enfiler la gaine thermo sur le câble (elle sera chauffé lors de la dernière étape)  
-souder les cables rouges ensemble et les cables noirs ensemble  
+Le principe est le même que pour les câbles reliés au commutateur
+- couper le câble USB à une trentaine de centimètre du branchement USB  
+- enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)   
+- souder les cables rouges ensemble et les cables noirs ensemble  
 
-### Relier des cable fin ert au bouton poussoir  
-répéter les même étapes que pour le cable USB et le ventillo  
+### Relier des "cables fin vert" au bouton poussoir  
 
-## Etape 2 - assembler l'antenne et la carte gps  
+> [!NOTE]
+> Ce cable fera le lien entre le bouton poussoir et la raspberry. Il permer ""
 
+répéter les mêmes étapes que pour le cable USB et le ventillo  
 
-## Etape 3 - assembler la carte ethernet et la carte raspberry
+## Etape 2 - assembler la carte ethernet et la carte raspberry
+
+> [!NOTE]
+> Explication
 
 viser les carte entre elle à l'aide des montant fourni dans le kit  
 brancher la "trame"  
 
-## Etape 4 - 
+## Etape 3 - 
+
+> [!NOTE]
+> Explication
 
 
 ## Etape n - Perçage des trous dans le boitier
-<details>
-  <summary> Outils </summary>
-  
-  * couronne de forage (diamètre:...)
-  * foret (diametre: ..)
-  * perceuse
-  
-</details>
 
-Percer un trou à tel endroit (schéma)  
-Positionner le connecteur  
-viser  
+> [!NOTE]
+> Il est important de faire un trou de plus que le nombre de connecteur pour que l'air puisse circuler.
+
+
+- Percer un trou à tel endroit (schéma)  
+- Positionner le connecteur  
+- viser  
 
 
 ## 2. Assemblage du caison vidéo
