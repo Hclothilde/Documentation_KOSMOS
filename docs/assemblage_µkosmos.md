@@ -1,4 +1,4 @@
-# Assemblage boite
+# Assemblage µKOSMOS
 Vous trouverez le materiel necessaire pour assembler la totalité de la boite [ici](materiel_boite.md)
 
 ## Etape 1 - Réaliser les raccordements entre les câbles et les "connecteurs"
