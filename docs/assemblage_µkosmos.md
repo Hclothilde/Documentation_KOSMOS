@@ -20,6 +20,9 @@
   * couronne de forage (diamètre:...) {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
   * foret (diametre: ..) {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
   * perceuse {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
+  * velcro
+  * tourne vis plat
+  * tourne vis cruciforme
   
 </details>
 
@@ -47,7 +50,9 @@
 - enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)  
 - utiliser les connecteurs cosses pour faire le lien entre les pins du commutateur et le cable USB, brancher le fil noir et le fil rouge  
 - chauffer la gaine thermo pour recouvrir tous les fils  
-- répéter les mêmes étapes que pour le côté avec le cable micro USB et le commutateur  
+- répéter les mêmes étapes que pour le côté avec le cable micro USB et le commutateur
+
+![branchement micro usb commutateur usb]()
 
 ### Relier un cable USB au ventillo
 
@@ -66,7 +71,32 @@ Le principe est le même que pour les câbles reliés au commutateur
 
 répéter les mêmes étapes que pour le cable USB et le ventillo  
 
-## Etape 2 - assembler la carte ethernet et la carte raspberry
+## Etape 2 - assembler la carte ethernet et la carte raspberry  
+
+- monter les supports sur la raspberry
+- souder barette noire
+- brancher carte ethernet sur raspberry
+- connecter les "trames"  
+
+## Etape 3 - Percer les côté du boitier pour y mettre les connecteurs et les vis
+
+## Etape 4 - fixer le receiver gaming et la carte gps dans la boite avec du velcro 
+
+## Etape 5 - fixer le clavier et la batterie dans le couvercle avec du velcro
+
+## Etape 6 - fixer le ventilateur
+
+## Etape 7 - brancher le cable micro USB sur la carte gps
+
+## Etape 8 - fixer la raspberry au boiter
+
+## Etape 9 - brancher gaming receiver, clavier et carte gps sur raspberry (port) USB
+
+## Etape 10 - fixer l'interrupteur, le bouton poussoir et les connecteurs hdmi et "Ethernet"
+
+## Etape 11 - effectuer les branchements
+
+
 
 > [!NOTE]
 > Explication
