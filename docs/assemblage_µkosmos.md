@@ -15,13 +15,13 @@
 <details>
   <summary> Outils </summary>
   
-  * gaine thermo {[Etape 1](assemblage_µkosmos.md##etape-1---réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
-  * matériel soudure {[Etape 1](assemblage_µkosmos.md##etape-1---réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
-  * couronne de forage (diamètre:...) {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
-  * foret (diametre: ..) {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
-  * perceuse {[Etape n](assemblage_µkosmos.md##etape-n---perçage-des-trous-dans-le-boitier)}
-  * velcro
-  * tourne vis plat
+  * gaine thermo {[Etape 1](assemblage_µkosmos.md#etape-1---réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
+  * matériel soudure {[Etape 1](assemblage_µkosmos.md#etape-1---réaliser-les-raccordements-entre-les-câbles-et-les-connecteurs)}
+  * couronne de forage (diamètre:...) {[Etape 3](assemblage_µkosmos.md#etape-3---percer-les-côtés-du-boitier)}
+  * foret (diametre: ..) {[Etape 3](assemblage_µkosmos.md#etape-3---percer-les-côtés-du-boitier)}
+  * perceuse {[Etape 3](assemblage_µkosmos.md#etape-3---percer-les-côtés-du-boitier)}
+  * velcro {[Etape 4 et 5](assemblage_µkosmos.md#etape-4---fixer-le-receiver-gaming-la-carte-gps-et-le-ventilateur-dans-la-boite)}
+  * tourne vis plat 
   * tourne vis cruciforme
   
 </details>
