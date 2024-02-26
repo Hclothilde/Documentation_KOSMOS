@@ -93,6 +93,8 @@
 
 > [!TIP]
 > Réaliser une ouverture supplémentaire pour que l'air puisse circuler et refroidir le système
+>
+> Si votre boitier est différent réfléchisser à la meilleur manière de l'organiser à l'intérieur
 
 - percer des trou pour les connecteurs et pour les vis qui les fixeront
   
@@ -101,10 +103,12 @@
 ## Etape 4 - fixer le receiver gaming la carte gps et le ventilateur dans la boite
 
 > [!TIP]
-> brancher le cable micro USB sur la carte gps maintenant il sera difficile d'accès lorsque la carte raspberry sera fixée
+> Optionnel: velcro
+> le velcro permet de ne pas coller définitivement les composants mais il est optionnel. Il peut être remplacer.
 
 - fixer le receiver gaming et la carte gp à l'aide de velcro
 - visser le ventilateur
+- brancher le cable micro USB sur la carte gps, il sera difficile d'accès lorsque la carte raspberry sera fixée
   
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/gps_receiver_ventilateur.jpg" width="300"/>
 
