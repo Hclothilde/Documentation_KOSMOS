@@ -73,29 +73,39 @@ répéter les mêmes étapes que pour le cable USB et le ventillo
 
 ## Etape 2 - assembler la carte ethernet et la carte raspberry  
 
+> [!NOTE]
+> La carte Ethernet est nécessaire pour ""
+
 - monter les supports sur la raspberry
 - souder barette noire
 - brancher carte ethernet sur raspberry
 - connecter les "trames"  
 
-## Etape 3 - Percer les côté du boitier pour y mettre les connecteurs et les vis
+## Etape 3 - Percer les côtés du boitier 
 
-## Etape 4 - fixer le receiver gaming et la carte gps dans la boite avec du velcro 
+> [!NOTE]
+> Ce cable permettra de pklacer les connecteurs.
 
-## Etape 5 - fixer le clavier et la batterie dans le couvercle avec du velcro
+> [!TIP]
+> Réaliser un trou supplémentaire pour que l'air puisse circuler et refroidir le système/
+
+"schéma"
+
+## Etape 4 - fixer certains composants avec du velcro  
+
+ Fixer receiver gaming et la carte gps dans la boite  
+ Fixer le clavier et la batterie dans le couvercle avec du velcro  
 
 ## Etape 6 - fixer le ventilateur
 
-## Etape 7 - brancher le cable micro USB sur la carte gps
+## Etape 7 - brancher le cable micro USB sur la carte gps (difficilement accesible lorsque la carte est sous la raspberry)
 
 ## Etape 8 - fixer la raspberry au boiter
-
-## Etape 9 - brancher gaming receiver, clavier et carte gps sur raspberry (port) USB
 
 ## Etape 10 - fixer l'interrupteur, le bouton poussoir et les connecteurs hdmi et "Ethernet"
 
 ## Etape 11 - effectuer les branchements
-
+ Brancher gaming receiver, clavier et carte gps sur raspberry (port) USB
 
 
 > [!NOTE]
