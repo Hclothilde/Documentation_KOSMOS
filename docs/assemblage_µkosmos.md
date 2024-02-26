@@ -52,7 +52,10 @@
 - chauffer la gaine thermo pour recouvrir tous les fils  
 - répéter les mêmes étapes que pour le côté avec le cable micro USB et le commutateur
 
-![branchement micro usb commutateur usb]()
+![branchement micro usb commutateur usb](pictures/assembly_guide/commutateur_cable.jpg)
+
+<img src"pictures/assembly_guide/commutateur_cable.jpg" />
+
 
 ### Relier un cable USB au ventillo
 
