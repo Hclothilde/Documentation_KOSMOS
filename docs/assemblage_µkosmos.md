@@ -2,12 +2,12 @@
 <details open>
   <summary> Sommaire </summary>
   
-  1. [Assemblage du boitier électronique](assemblage_µkosmos.md##1-assemblage-du-boitier-électronique)
-  2. [Assemblage du caison vidéo](assemblage_µkosmos.md##2-assemblage-du-caisson-video)
-  3. [Assemblage du trépried](assemblage_µkosmos.md##3-assemblage-du-trépied)
-  4. [Assemblage du casque](assemblage_µkosmos.md##4-assemblage-du-casque)
-  5. [Assemblage du cable](assemblage_µkosmos.md##5-assemblage-du-cable)
-  6. [Assemblage de la paravane](assemblage_µkosmos.md##6-assemblage-de-la-paravane)
+  1. [Assemblage du boitier électronique](assemblage_µkosmos.md#1-assemblage-du-boitier-électronique)
+  2. [Assemblage du caison vidéo](assemblage_µkosmos.md#2-assemblage-du-caisson-video)
+  3. [Assemblage du trépried](assemblage_µkosmos.md#3-assemblage-du-trépied)
+  4. [Assemblage du casque](assemblage_µkosmos.md#4-assemblage-du-casque)
+  5. [Assemblage du cable](assemblage_µkosmos.md#5-assemblage-du-cable)
+  6. [Assemblage de la paravane](assemblage_µkosmos.md#6-assemblage-de-la-paravane)
       
 </details>
 
