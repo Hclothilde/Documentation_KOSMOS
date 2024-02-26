@@ -52,27 +52,27 @@
 - chauffer la gaine thermo pour recouvrir tous les fils  
 - répéter les mêmes étapes que pour le côté avec le cable micro USB et le commutateur
 
-![branchement micro usb commutateur usb](pictures/assembly_guide/commutateur_cable.jpg)
-
-<img src"pictures/assembly_guide/commutateur_cable.jpg" />
-
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/ceec4b8716ca7170e905918eca46779770e4e37d/docs/pictures/assembly_guide/commutateur_cable.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/cosse.jpg" width="300"/>
 
 ### Relier un cable USB au ventillo
 
 > [!NOTE]
 > Ce cable fera le lien entre le ventilateur et la raspberry. Brancher le ventilateur sur la carte pemet de l'alimenter et de le faire fonctionner.
 
-Le principe est le même que pour les câbles reliés au commutateur
 - couper le câble USB à une trentaine de centimètre du branchement USB  
 - enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)   
 - souder les cables rouges ensemble et les cables noirs ensemble  
 
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
+
 ### Relier des cables de prototypage au bouton poussoir  
 
 > [!NOTE]
-> Ce cable fera le lien entre le bouton poussoir et la raspberry. Il permer ""
+> Ces cables feront le lien entre le bouton poussoir et la raspberry.
 
-répéter les mêmes étapes que pour le cable USB et le ventillo  
+- répéter les mêmes étapes que pour le cable USB et le ventillo  
+
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/bp_cable.jpg" width="300"/>
 
 ## Etape 2 - assembler la carte ethernet et la carte raspberry  
 
@@ -82,56 +82,41 @@ répéter les mêmes étapes que pour le cable USB et le ventillo
 - monter les supports sur la raspberry
 - souder barette noire
 - brancher carte ethernet sur raspberry
-- connecter les "trames"  
+- connecter les "trames"
+
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/support_raspberry.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ethernet_raspberry.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/trame_ethernet.jpg" width="300"/>
 
 ## Etape 3 - Percer les côtés du boitier 
 
 > [!NOTE]
-> Ce cable permettra de pklacer les connecteurs.
+> Ces ouvertures permettront de placer les connecteurs.
 
 > [!TIP]
-> Réaliser un trou supplémentaire pour que l'air puisse circuler et refroidir le système/
+> Réaliser une ouverture supplémentaire pour que l'air puisse circuler et refroidir le système
 
-"schéma"
+- percer des trou pour les connecteurs et pour les vis qui les fixeront
+  
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/e7b992de14c27f3d806314fa78ff201460aad8f4/docs/pictures/assembly_guide/velcro_trou.jpg" width="300"/>
 
-## Etape 4 - fixer certains composants avec du velcro  
+## Etape 4 - fixer le receiver gaming la carte gps et le ventilateur dans la boite
 
- Fixer receiver gaming et la carte gps dans la boite  
- Fixer le clavier et la batterie dans le couvercle avec du velcro  
+> [!TIP]
+> brancher le cable micro USB sur la carte gps maintenant il sera difficile d'accès lorsque la carte raspberry sera fixée
 
-## Etape 6 - fixer le ventilateur
+- fixer le receiver gaming et la carte gp à l'aide de velcro
+- visser le ventilateur
+  
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/gps_receiver_ventilateur.jpg" width="300"/>
 
-## Etape 7 - brancher le cable micro USB sur la carte gps (difficilement accesible lorsque la carte est sous la raspberry)
+ ## Etape 5 - Fixer le clavier et la batterie dans le couvercle  
+ - fixer le clavier et la baatterie à l'aide de velcro
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/fixer_batterie_clavier.jpg" width="300"/>
 
-## Etape 8 - fixer la raspberry au boiter
+## Etape 6 - fixer la raspberry au boiter
 
-## Etape 10 - fixer l'interrupteur, le bouton poussoir et les connecteurs hdmi et "Ethernet"
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/branchement_gps_gaming.jpg" width="300"/>
 
-## Etape 11 - effectuer les branchements
- Brancher gaming receiver, clavier et carte gps sur raspberry (port) USB
-
-
-> [!NOTE]
-> Explication
-
-viser les carte entre elle à l'aide des montant fourni dans le kit  
-brancher la "trame"  
-
-## Etape 3 - 
-
-> [!NOTE]
-> Explication
-
-
-## Etape n - Perçage des trous dans le boitier
-
-> [!NOTE]
-> Il est important dd'ajouter une ouverture pour que l'air puisse circuler.
-
-
-- Percer un trou à tel endroit (schéma)  
-- Positionner le connecteur  
-- viser  
+## Etape 7 - fixer l'interrupteur, le bouton poussoir, les connecteurs et réaliser les branchements
 
 
 ## 2. Assemblage du caison vidéo
