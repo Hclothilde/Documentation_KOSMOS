@@ -122,6 +122,7 @@
 
 ## Etape 7 - fixer l'interrupteur, le bouton poussoir, les connecteurs et réaliser les branchements
 
+![cablage final](pictures/assembly_guide/cablage_final_v2.jpg)
 
 ## 2. Assemblage du caison vidéo
 <details>
