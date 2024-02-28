@@ -1,4 +1,4 @@
-# Materiel Boite
+# Materiel Boitier Electronique
 
 >[!Warning]
 >Tous les liens vers les sites fournisseur sont mis à titre indicatif.  
@@ -27,7 +27,7 @@
 ## Cable:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![eternet0.3](pictures/equipments/boitier/ethernet0.3_.png)   |[VIDEK 2966-0.3F](https://fr.farnell.com/videk/2966-0-3f/lead-flat-cat6-utp-beige-0-3m/dp/1515103?ost=1515103)  |         1|ethernet 0.3m           | "Relie carte ethernet au raccord ethernet/boite"   |          |
+|![eternet0.3](pictures/equipments/boitier/ethernet0.3_.png)   |[VIDEK 2966-0.3F](https://fr.farnell.com/videk/2966-0-3f/lead-flat-cat6-utp-beige-0-3m/dp/1515103?ost=1515103)  |         1|ethernet 0.3m           | "Relie carte ethernet au raccord ethernet_externe"   |          |
 |![hdmi10](pictures/equipments/boitier/hdmi10_.png)        |[PRO SIGNAL PSG91337](https://fr.farnell.com/pro-signal/psg91337/hdmi-lead-black-0-15m/dp/3400642?ost=3400642)|         1| rallonge HDMI 10cm       | Relie la raspberry au bulgin HDMI   |          |
 |![usb](pictures/equipments/boitier/usb.png)          |[KUB06861-NR](https://www.kubii.com/fr/alimentations/1501-1088-mini-cable-blanc-usb-micro-usb-kubii-3272496003491.html#/couleur-noir)           |         2|cable USB           | Relie la batterie au commutateur <br><br> Relie le ventillateur à la carte |Récup <br><br> Seul le connecteur usb est important l'autre bout du cable sera coupé et relier à d'autre petit cable par soudure    |
 |![usb_micro_usb](pictures/equipments/boitier/usb_micro_usb.PNG)       |[KUB06861-NR](https://www.kubii.com/fr/alimentations/1501-1088-mini-cable-blanc-usb-micro-usb-kubii-3272496003491.html#/couleur-noir)           |         1|cable micro USB vers USB           | Relie la raspberry à la carte gps   |Récup     |
@@ -37,10 +37,10 @@
 ## Connecteur:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![bulgin_hdmi](pictures/equipments/boitier/bulgin_hdmi_.png)        |[AMPHENOL AUDIO AC-HDMI-RRB](https://fr.farnell.com/amphenol/ac-hdmi-rrb/adaptateur-hdmi-type-d-fem-fem/dp/2951361?ost=ac-hdmi-rrb) |         1| bulgin HDMI              | "connect la boite au casque de Réalité Virtuelle (VR)"|          |
+|![bulgin_hdmi](pictures/equipments/boitier/bulgin_hdmi_.png)        |[AMPHENOL AUDIO AC-HDMI-RRB](https://fr.farnell.com/amphenol/ac-hdmi-rrb/adaptateur-hdmi-type-d-fem-fem/dp/2951361?ost=ac-hdmi-rrb) |         1| bulgin HDMI              | permet de connecter la raspberry au casque de Réalité Virtuelle (VR)|          |
 |![cosse](pictures/equipments/boitier/cosse.PNG)        |[RS PRO 534-339](https://fr.rs-online.com/web/p/cosses-faston/0534339?gb=s)          |         4|connecteur cosse            | Fait le lien entre les pins du commutateur et les câbles                     |          |
 |![jumper](pictures/equipments/boitier/jumper.png)        |[jumper](https://fr.rs-online.com/web/p/cavaliers-et-shunts/2518531)          |         1|jumper            | Fait le lien entre deux pins de la carte ethernet pour chager le mode de fonctionnement                    |          |
-|![raccord_ethernet_boite](pictures/equipments/boitier/raccord-ethernet_boite_.png)        |[BULGIN LIMITED PX0839/90](https://fr.farnell.com/bulgin/px0839-90/connecteur-coupleur-cat5e-horizontal/dp/1687567?ost=px0839%2F90) |         1| raccord ethernet/boite   | "connect la boite au cable" |          |
+|![raccord_ethernet_externe](pictures/equipments/boitier/raccord-ethernet_externe_.png)        |[BULGIN LIMITED PX0839/90](https://fr.farnell.com/bulgin/px0839-90/connecteur-coupleur-cat5e-horizontal/dp/1687567?ost=px0839%2F90) |         1| raccord ethernet_externe   | permet de connecter la carte ethernet au cable ethernet externe |          |
 
 
 
