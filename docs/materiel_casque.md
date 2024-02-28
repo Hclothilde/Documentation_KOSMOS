@@ -26,8 +26,9 @@
 ## Impresion 3D:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![support_batterie]()        |[support_batterie]()|      1|              |                           |          |
-|![support_ecran]()           |[support_ecran]()|      1|              |                           |          |
+|![support_top_batterie](pictures/3Dpart/casque/support_top_batterie.PNG)        |[support_top_batterie]()|      1|              |                           |          |
+|![support_boy_batterie](pictures/3Dpart/casque/support_bot_batterie_.PNG)        |[support_bot_batterie]()|      1|              |                           |          |
+|![support_ecran](pictures/3Dpart/casque/support_ecran.PNG)           |[support_ecran]()|      1|              |                           |          |
 
 
 ## Autre:
