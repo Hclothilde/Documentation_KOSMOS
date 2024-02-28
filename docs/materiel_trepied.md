@@ -31,10 +31,10 @@
 ## Impression 3D:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-| ![Trepied_inf](/../µKOSMOS/docs/pictures/3Dpart/socleInferieur.png)        |[Trepied_SocleInferieur](/../µKOSMOS/hardware/3Dprint_files/Trepied_SocleInferieur.stl)           |         1| partie basse             |Piece dans laquel seront fixer les pieds                                         |          |
-| ![Trepied_sup](/../µKOSMOS/docs/pictures/3Dpart/socleSuperieur.png)        |[Trepied_SocleSupérieur](/../µKOSMOS/hardware/3Dprint_files/Trepied_SocleSupérieur.stl)           |         1| partie haute             |Piece qui permettra d'attacher l'anneau d'accroche                                          |          |
-| ![Collier_inf](/../µKOSMOS/docs/pictures/3Dpart/collierInferieur.png)        |[Trepied_CollierInférieur](/../µKOSMOS/hardware/3Dprint_files/Trepied_CollierInférieur.stl)             |         2| Ber*               |Piece inférieur de maintient du tube étanche                                         |          |
-| ![Collier_sup](/../µKOSMOS/docs/pictures/3Dpart/collierSuperieur.png)        |[Trepied_CollierSupérieur](/../µKOSMOS/hardware/3Dprint_files/Trepied_CollierSupérieur.stl)             |         2| fermeture du Ber   |Piece suppérieur de maintient du tube étanche                                         |          |
+| ![Trepied_inf](/../µKOSMOS/docs/pictures/3Dpart/trepied/socleInferieur.png)        |[Trepied_SocleInferieur](/../µKOSMOS/hardware/3Dprint_files/trepied/Trepied_SocleInferieur.stl)           |         1| partie basse             |Piece dans laquel seront fixer les pieds                                         |          |
+| ![Trepied_sup](/../µKOSMOS/docs/pictures/3Dpart/trepied/socleSuperieur.png)        |[Trepied_SocleSupérieur](/../µKOSMOS/hardware/3Dprint_files/trepied/Trepied_SocleSupérieur.stl)           |         1| partie haute             |Piece qui permettra d'attacher l'anneau d'accroche                                          |          |
+| ![Collier_inf](/../µKOSMOS/docs/pictures/3Dpart/trepied/collierInferieur.png)        |[Trepied_CollierInférieur](/../µKOSMOS/hardware/3Dprint_files/trepied/Trepied_CollierInférieur.stl)             |         2| Ber*               |Piece inférieur de maintient du tube étanche                                         |          |
+| ![Collier_sup](/../µKOSMOS/docs/pictures/3Dpart/trepied/collierSuperieur.png)        |[Trepied_CollierSupérieur](/../µKOSMOS/hardware/3Dprint_files/trepied/Trepied_CollierSupérieur.stl)             |         2| fermeture du Ber   |Piece suppérieur de maintient du tube étanche                                         |          |
 
 
 *Ber : correspont en marine à la charpente qui maintient un bateau en traveaux
