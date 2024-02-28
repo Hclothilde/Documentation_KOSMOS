@@ -52,7 +52,7 @@
 - chauffer la gaine thermo pour recouvrir tous les fils  
 - répéter les mêmes étapes que pour le côté avec le câble micro USB et le commutateur
 
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/ceec4b8716ca7170e905918eca46779770e4e37d/docs/pictures/assembly_guide/commutateur_câble.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/cosse.jpg" width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/ceec4b8716ca7170e905918eca46779770e4e37d/docs/pictures/assembly_guide/commutateur_cable.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/cosse.jpg" width="300"/>
 
 ### Relier un câble USB au ventillo
 
@@ -63,7 +63,7 @@
 - enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)   
 - souder les câbles rouges ensemble et les câbles noirs ensemble  
 
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_câble.jpg"  width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
 
 ### Relier des câbles de prototypage au bouton poussoir  
 
@@ -72,7 +72,7 @@
 
 - répéter les mêmes étapes que pour le câble USB et le ventillo  
 
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/bp_câble.jpg" width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/bp_cable.jpg" width="300"/>
 
 ## Etape 2 - assemblage de la carte ethernet et de la carte raspberry  
 
@@ -184,7 +184,7 @@
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel câble](materiel_câble.md)
+  [Tableau matériel câble](materiel_cable.md)
     
 </details>
 
