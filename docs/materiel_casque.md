@@ -27,8 +27,8 @@
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |![support_top_batterie](pictures/3Dpart/casque/support_top_batterie_.PNG)        |[support_top_batterie](/../µKOSMOS/hardware/3Dprint_files/casque/Support_batterie_BOT.stl)|      1| Support supérieur batterie             |Partie haute de la boite dans laquelle la batterie sera maintenue                           |          |
-|![support_boy_batterie](pictures/3Dpart/casque/support_bot_batterie_.PNG)        |[support_bot_batterie](hardware/3Dprint_files/casque/Support_batterie_TOP.stl)|      1| Support inférieur batterie              |Partie basse de la boite dans laquelle la batterie sera maintenue                           |          |
-|![support_ecran](pictures/3Dpart/casque/support_ecran.PNG)           |[support_ecran](hardware/3Dprint_files/casque/Support_ecran.stl)|      1|Support de l'écran        |boite dans laquelle l'ecran sera maintenue                           |          |
+|![support_boy_batterie](pictures/3Dpart/casque/support_bot_batterie_.PNG)        |[support_bot_batterie](/../µKOSMOS/hardware/3Dprint_files/casque/Support_batterie_TOP.stl)|      1| Support inférieur batterie              |Partie basse de la boite dans laquelle la batterie sera maintenue                           |          |
+|![support_ecran](pictures/3Dpart/casque/support_ecran.PNG)           |[support_ecran](/../µKOSMOS/hardware/3Dprint_files/casque/Support_ecran.stl)|      1|Support de l'écran        |boite dans laquelle l'ecran sera maintenue                           |          |
 
 
 ## Autre:
