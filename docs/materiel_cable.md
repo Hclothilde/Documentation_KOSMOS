@@ -11,6 +11,7 @@
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |![ethernet renforcé](pictures/equipments/cable/connecteur_ethernet.PNG)   |[BULGIN LIMITED PX0834/B](https://fr.farnell.com/bulgin/px0834-b/connecteur-precable-rj45/dp/9667733?st=bulgin%20px0834/b)           |         1| connecteur ethernet          |Permet d'avoir un contact parfait avec le tube pexy|          |
+|![cable_ethernet](pictures/equipments/cable/cable_ethernet.PNG)   |[ROLINE 	21.15.0871](https://fr.farnell.com/roline/21-15-0871/cordon-de-brassage-rj45-m-m-30m/dp/3003054?ost=21.15.0871)         |         1| cable ethernet 15m         |Permet ""   |          |
 
 ## Cable:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
