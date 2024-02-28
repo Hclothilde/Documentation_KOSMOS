@@ -1,4 +1,4 @@
-# Materiel Trepied
+# Materiel Trépied
 ## Outils:
 
 ## Visserie:
@@ -37,10 +37,4 @@
 | ![Collier_sup](/../µKOSMOS/docs/pictures/3Dpart/trepied/collierSuperieur.png)        |[Trepied_CollierSupérieur](/../µKOSMOS/hardware/3Dprint_files/trepied/Trepied_CollierSupérieur.stl)             |         2| fermeture du Ber   |Piece suppérieur de maintient du tube étanche                                         |          |
 
 
-*Ber : correspont en marine à la charpente qui maintient un bateau en traveaux
-
-
-
-
- ![piece-2](pictures/equipments/piece-2.jpg)
- 
+*Ber : correspont en marine à la charpente qui maintient un bateau en traveaux 
