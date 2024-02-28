@@ -4,13 +4,17 @@
 ## Visserie:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|        |           |         4|écrou                  |                                         |          |
-
+|        |           |         9|écrou M2                  |                                         |          |
+|        |           |         4|vis M2*4mm                |Fixer le l'ecran ducasque à son support               |          |
+|        |           |         5|vis M2*6mm                |Fixer le boitier de la batterie au casque             |          |
+|        |           |         4|vis M2*8mm                |Fixer le couvercle du boitier de la batterie          |          |
 
 ## Cable:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|        |           |         4|écrou                  |                                         |          |
+|        |           |         1|câble hdmi                | Relie le casque au boitier électronique |          |
+|        |           |         1|câble micro usb - USB     | Relie l'écran à la batterie             |          |
+
 
 ## Electronique:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
@@ -22,8 +26,14 @@
 ## Impresion 3D:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![support_batterie]()        |[support_batterie]()|      1|              |                                |          |
+|![support_batterie]()        |[support_batterie]()|      1|              |                           |          |
+|![support_ecran]()           |[support_ecran]()|      1|              |                           |          |
 
+
+## Autre:
+| Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
+|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
+|![mousse]()        |[mousse]()|      1|Mousse             |""                                |          |
 
 
 (Les images proviennent des sites constructeurs)
