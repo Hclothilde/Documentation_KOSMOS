@@ -10,9 +10,10 @@
 ## Connectique:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![dummy cap](pictures/equipments/cable/dummy_cap.PNG)        |[COB-1003](https://www.bluetrailengineering.com/product-page/cobalt-series-dummy-cap)          |         1|capuchon protection cable       |                    |          |Permet de protéger le cable lorsqu'il n'est pas utilisé 
-|![ethernet renforcé](pictures/equipments/cable/connecteur_ethernet.PNG)   |[BULGIN LIMITED PX0834/B](https://fr.farnell.com/bulgin/px0834-b/connecteur-precable-rj45/dp/9667733?st=bulgin%20px0834/b)           |         1| connecteur ethernet          |Permet d'avoir un contact parfait avec le tube pexy|          |
+|![dummy cap](pictures/equipments/cable/dummy_cap.PNG)        |[COB-1003](https://www.bluetrailengineering.com/product-page/cobalt-series-dummy-cap)          |         1|capuchon protection cable       | Permet de protéger le cable lorsqu'il n'est pas utilisé                    |          |
 |![locking sleeve](pictures/equipments/cable/locking_sleeve.PNG)        |[COB-1001](https://www.bluetrailengineering.com/product-page/low-profile-locking-sleeve)          |         1|fermeture capuchon protection       |Permet de protéger le cable lorsqu'il n'est pas utilisé                         |          |
+|![ethernet renforcé](pictures/equipments/cable/connecteur_ethernet.PNG)   |[BULGIN LIMITED PX0834/B](https://fr.farnell.com/bulgin/px0834-b/connecteur-precable-rj45/dp/9667733?st=bulgin%20px0834/b)           |         1| connecteur ethernet          |Permet d'avoir un contact parfait avec le tube pexy|          |
+
 
 
 ## Cable:
