@@ -124,7 +124,7 @@
 
 ![cablage final](pictures/assembly_guide/cablage_final_v2.jpg)
 
-## 2. Assemblage du caison vidéo
+## 2. Assemblage du caisson vidéo
 <details>
   <summary> Outils </summary>
   
