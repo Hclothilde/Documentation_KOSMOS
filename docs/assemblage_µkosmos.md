@@ -3,7 +3,7 @@
   <summary> Sommaire </summary>
   
   1. [Assemblage du boitier électronique](assemblage_µkosmos.md#1-assemblage-du-boitier-électronique)
-  2. [Assemblage du caison vidéo](assemblage_µkosmos.md#2-assemblage-du-caisson-video)
+  2. [Assemblage du caison vidéo](assemblage_µkosmos.md#2-assemblage-du-caisson-vidéo)
   3. [Assemblage du trépried](assemblage_µkosmos.md#3-assemblage-du-trépied)
   4. [Assemblage du casque](assemblage_µkosmos.md#4-assemblage-du-casque)
   5. [Assemblage du câble](assemblage_µkosmos.md#5-assemblage-du-câble)
@@ -29,7 +29,7 @@
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel boitier électronique](materiel_boite.md)
+  [Tableau matériel boitier électronique](materiel_boitier_electronique.md)
     
 </details>
 
