@@ -3,8 +3,7 @@
 ## Visserie:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|        |           |         1| anneau d'accroche M10 A4 |Permet d'attacher un bout au micro kosmos |          |
-|![manille](pictures/equipments/cable/dummy_cap.PNG)        |[RS PRO 124-4849](https://fr.rs-online.com/web/p/manilles/1244849?cm_mmc=FR-PLA-DS3A-_-google-_-CFS_FR_FR_RS+PRO_PO4700199950-_-Acc%C3%A8s,+Stockage+et+manutention-_-1244849&matchtype=&pla-2260779340447&gad_source=1&gclid=EAIaIQobChMI7YCP0uXQhAMVzj8GAB0ZgAvmEAQYASABEgLiavD_BwE&gclsrc=aw.ds)           |        3| manille |Permet d'accrocher un bout et de tirer sur le dispositif sans détériorier le cable et le connecteur |          |
+|![manille](pictures/equipments/cable/manille.PNG)        |[RS PRO 124-4849](https://fr.rs-online.com/web/p/manilles/1244849?cm_mmc=FR-PLA-DS3A-_-google-_-CFS_FR_FR_RS+PRO_PO4700199950-_-Acc%C3%A8s,+Stockage+et+manutention-_-1244849&matchtype=&pla-2260779340447&gad_source=1&gclid=EAIaIQobChMI7YCP0uXQhAMVzj8GAB0ZgAvmEAQYASABEgLiavD_BwE&gclsrc=aw.ds)           |        3| manille |Permet d'accrocher un bout et de tirer sur le dispositif sans détériorier le cable et le connecteur |          |
 
 
 
