@@ -33,7 +33,7 @@
     
 </details>
 
-## Etape 1 - Réalisation les raccordements entre les câbles et les connecteurs
+### Etape 1 - Réalisation les raccordements entre les câbles et les connecteurs
 
 ### Relier un câble USB à un câble micro USB en passant par le commutateur 
 
@@ -74,7 +74,7 @@
 
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/bp_cable.jpg" width="300"/>
 
-## Etape 2 - assemblage de la carte ethernet et de la carte raspberry  
+### Etape 2 - assemblage de la carte ethernet et de la carte raspberry  
 
 > [!NOTE]
 > La carte Ethernet est nécessaire pour ""
@@ -86,7 +86,7 @@
 
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/support_raspberry.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ethernet_raspberry.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/trame_ethernet.jpg" width="300"/>
 
-## Etape 3 - Perçage des côtés du boitier 
+### Etape 3 - Perçage des côtés du boitier 
 
 > [!NOTE]
 > Ces ouvertures permettront de placer les connecteurs.
@@ -100,7 +100,7 @@
   
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/e7b992de14c27f3d806314fa78ff201460aad8f4/docs/pictures/assembly_guide/velcro_trou.jpg" width="300"/>
 
-## Etape 4 - Fixation du receiver gaming, de la carte gps et du ventilateur dans le boitier
+### Etape 4 - Fixation du receiver gaming, de la carte gps et du ventilateur dans le boitier
 
 > [!TIP]
 > Optionnel: velcro
@@ -112,15 +112,15 @@
   
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/gps_receiver_ventilateur.jpg" width="300"/>
 
- ## Etape 5 - Fixation du clavier et de la batterie dans le couvercle  
+ ### Etape 5 - Fixation du clavier et de la batterie dans le couvercle  
  - fixer le clavier et la baatterie à l'aide de velcro
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/fixer_batterie_clavier.jpg" width="300"/>
 
-## Etape 6 - Fixation de la raspberry au boitier
+### Etape 6 - Fixation de la raspberry au boitier
 
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/branchement_gps_gaming.jpg" width="300"/>
 
-## Etape 7 - Fixation de l'interrupteur, du bouton poussoir, des connecteurs et réalisation des branchements
+### Etape 7 - Fixation de l'interrupteur, du bouton poussoir, des connecteurs et réalisation des branchements
 
 ![cablage final](pictures/assembly_guide/cablage_final_v2.jpg)
 
@@ -128,8 +128,8 @@
 <details>
   <summary> Outils </summary>
   
-  * ex1
-  * ex2
+  * 
+  * 
   
 </details>
 
@@ -144,9 +144,10 @@
 <details>
   <summary> Outils </summary>
   
-  * ex1
-  * ex2
-  
+  * imprimante 3D {[Etape 1](assemblage_µkosmos.md#etape-1---impression-3d)}
+  * foret M3, M6 {[Etape 2](assemblage_µkosmos.md#etape-2---assemblage-de-la-partie-inf%C3%A9rieur-du-tr%C3%A9pied)}
+  * meuleuse {[Etape 2](assemblage_µkosmos.md#etape-2---assemblage-de-la-partie-inf%C3%A9rieur-du-tr%C3%A9pied)}
+
 </details>
 
 <details>
@@ -156,6 +157,48 @@
     
 </details>
 
+### Etape 1 - Impression 3D
+Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de maintient du tube plexy
+
+### Etape 2 - Assemblage de la partie inférieur du trépied
+ - Découpé le tube en aluminium de manière à obtenir trois segment d'environ "50cm"
+ - Couper les extrémitées de chaque segment en biais à environ 45° pour qu'ils puissent se poser à plat en étant inclinés "en bas" et prendre moins de place "en haut"
+ - Percer les tubes avec un foret de 6mm à environ 20cm de la partie basse (un peu plus que la longueur du plomb que vous avez choisi) et avec un foret de 3mm à environ 2cm de la partie haute et un autre à 10cm de la partie haute. Les trous doivent traversés le tube de part et d'autre pour pouvoir y insérer des vis.
+ - Percer les plombs avec un foret M3 perpendiculairement au trou déjà existant. Ce trou permettra de faire passer le serre câble pour maintenir la partie basse du plomb sur le tube.
+ - Fixer les plombs sur la partie basse des tubes. Viser et Ajouter un serre câble comme ci-dessous.
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_plomb.jpg" width="300"/>  
+
+ - Couper le tête des clous, insérer les dans le trou réaliser à 10cm de la partie haute et plier les bords qui dépasse contre le tube. "Ces clous permette de bloquer la partie inférieur du socle en translation."  
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/positionnement_clou.jpg" width="300"/>
+
+ - Insérer la partie haute des tubes dans le socle inférieur du trépied imprimé en 3D  
+ - Faire passer un fil de fer dans les trous réaliser à 2cm de la partie haut. "Ils servitront à éviter les translation vers le haut de la partie inférieur du socle.   
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/montage_fil.jpg" width="300"/>
+  
+### Etape 3 - Assemblage de la partie supérieur du trépied
+ - Coller les bande de mousse à l'intérieur des bers. Attention à laisser les trous prévu pour les vis libres.
+ - Percer 2 trous dnas la plaque métalique avec un foret M4 et un trou avec un foret M10. Il faut que les trous correspond aux trous déjà présent au centre sur le socle supérieur imprimé
+ - Positionner la plaque métallique au dessus de la partie supérieur du socle et fixer l'anneau d'accroche M10 à la partie supérieur du socle.  
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_anneau.jpg" width="300"/>
+
+ - Viser le ber supérieur à la partie supérieur du socle avec des vis M4  
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+
+ - Viser le "ber inférieur" pour former le support du caiso vidéo. Pas besoin deserrer pour le moment si vous n'avez pas insérer le caisson.
+
+### Etape 4 - Assemblage de la partie haute et de la partie basse du trépied
+ - Découper la tige filetée de manière à avoir 2 segments de 170mm et 4 segements de 145mm
+ - inserrer des écrous nylstop de chaque côté des tiges filetées  
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/positionnement_nylstop.jpg" width="300"/>
+
+ - Lors du montage des écrous placer des rondelles de chaque côté de la pièce imprimer pour la protéger. Insérer les tiges filetée dans le socle inférieur puis viser un écrou avec oreilles en dessous.  
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/positionnement_rondelle_ecrou.jpg" width="300"/>
+
+ - Insérer des rondelles sur les tiges puis positionner la partie supérieur du socle. Ajuster les écrous de manière à ce que le socle vienne se poser horizontallement.
+ - Comme pour la partie basse fixer le haut avec des écrous à oreilles
+   
+   [imagefinale]
+   
 ## 4. Assemblage du casque
 <details>
   <summary> Outils </summary>
