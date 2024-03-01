@@ -122,7 +122,7 @@
 
 ### Etape 7 - Fixation de l'interrupteur, du bouton poussoir, des connecteurs et réalisation des branchements
 
-![cablage final](pictures/assembly_guide/cablage_final_v2.jpg)
+![cablage final](pictures/assembly_guide/boitier/cablage_final_v2.jpg)
 
 ## 2. Assemblage du caisson vidéo
 <details>
@@ -161,43 +161,44 @@
 Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de maintient du caisson vidéo.
 
 ### Etape 2 - Assemblage de la partie inférieur du trépied
- - Découpé le tube en aluminium de manière à obtenir trois segment d'environ "50cm"
- - Couper les extrémitées de chaque segment en biais à environ 45° pour qu'ils puissent se poser à plat en étant inclinés "en bas" et prendre moins de place "en haut"
- - Percer les tubes avec un foret de 6mm à environ 20cm de la partie basse (un peu plus que la longueur du plomb que vous avez choisi) et avec un foret de 3mm à environ 2cm de la partie haute et un autre à 10cm de la partie haute. Les trous doivent traversés le tube de part et d'autre pour pouvoir y insérer des vis.
- - Percer les plombs avec un foret M3 perpendiculairement au trou déjà existant. Ce trou permettra de faire passer le serre câble pour maintenir la partie basse du plomb sur le tube.
- - Fixer les plombs sur la partie basse des tubes. Viser et Ajouter un serre câble comme ci-dessous.
+ - Découper le tube en aluminium de manière à obtenir trois segments d'environ "500mm". Ces segments formeront les trois pieds.
+ - Couper les extrémitées de chaque segment en biais (environ 45°). Cela permet de les poser à plat tout en étant inclinés et de prendre moins de place sous les support du caisson vidéo.
+ - Percer les tubes avec un foret de 6mm à environ 20cm du bord (un peu plus que la longueur des plombs que vous avez choisis). Ceci est la partie basse des pieds
+ - Percer deux trous àl'autre extrémité du tube. Un avec un foret de 3mm à environ 20mm du bord du tube et un autre à 100mm du bord. Les trous doivent traversés le tube de part et d'autre pour pouvoir y insérer des vis.
+ - Percer les plombs avec un foret de 3mm perpendiculairement au trou déjà existant. Ce trou permettra de faire passer le serre câble pour maintenir la partie basse du plomb sur le tube.
+ - Fixer les plombs sur la partie basse des pieds. Visser et ajouter un serre câble comme ci-dessous.
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_plomb.jpg" width="300"/>  
 
- - Couper le tête des clous, insérer les dans le trou réaliser à 10cm de la partie haute et plier les bords qui dépasse contre le tube. "Ces clous permette de bloquer la partie inférieur du socle en translation."  
+ - Couper le tête des clous, insérer les dans les trou réalisés à 100mm de la partie haute et plier les bords qui dépasse contre le tube. Ces clous servent de butée et empèche la partie inférieur du socle de glisser plus bas.  
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/positionnement_clou.jpg" width="300"/>
 
- - Insérer la partie haute des tubes dans le socle inférieur du trépied imprimé en 3D  
- - Faire passer un fil de fer dans les trous réaliser à 2cm de la partie haut. "Ils servitront à éviter les translation vers le haut de la partie inférieur du socle.   
+ - Insérer la partie haute des tubes dans le socle inférieur du trépied imprimée en 3D  
+ - Faire passer un fil de fer dans les trous réalisés à 20mm de la partie haut. Ce fil sert de butée et empèche la partie inférieur du socle de glisser vers le haut.     
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/montage_fil.jpg" width="300"/>
   
 ### Etape 3 - Assemblage de la partie supérieur du trépied
- - Coller les bande de mousse à l'intérieur des bers. Attention à laisser les trous prévu pour les vis libres.
- - Percer 2 trous dnas la plaque métalique avec un foret M4 et un trou avec un foret M10. Il faut que les trous correspond aux trous déjà présent au centre sur le socle supérieur imprimé
+ - Coller les bandes de mousse à l'intérieur des bers. Attention à laisser les trous prévus pour les vis libres.
+ - Percer 2 trous dnas la plaque métalique avec un foret M4 et un trou avec un foret M10. Il faut que les trous correspond aux trous déjà présent sur la partie centrale du socle supérieur imprimé en 3D
  - Positionner la plaque métallique au dessus de la partie supérieur du socle et fixer l'anneau d'accroche M10 à la partie supérieur du socle.  
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_anneau.jpg" width="300"/>
 
- - Viser le ber supérieur à la partie supérieur du socle avec des vis M4  
+ - Visser le ber supérieur à la partie supérieur du socle avec des vis M4  
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
 
- - Viser le "ber inférieur" pour former le support du caiso vidéo. Pas besoin deserrer pour le moment si vous n'avez pas insérer le caisson.
+ - Visser le "ber inférieur" pour former le support du caisson vidéo. (Pas besoin de serrer pour le moment si vous n'avez pas inséré le caisson.)
 
 ### Etape 4 - Assemblage de la partie haute et de la partie basse du trépied
  - Découper la tige filetée de manière à avoir 2 segments de 170mm et 4 segements de 145mm
  - inserrer des écrous nylstop de chaque côté des tiges filetées  
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/positionnement_nylstop.jpg" width="300"/>
 
- - Lors du montage des écrous placer des rondelles de chaque côté de la pièce imprimer pour la protéger. Insérer les tiges filetée dans le socle inférieur puis viser un écrou avec oreilles en dessous.  
+ - Lors du montage des écrous placer des rondelles de chaque côté de la pièce imprimer pour la protéger. Insérer les tiges filetée dans le socle inférieur puis Visser un écrou avec oreilles en dessous.  
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/positionnement_rondelle_ecrou.jpg" width="300"/>
 
  - Insérer des rondelles sur les tiges puis positionner la partie supérieur du socle. Ajuster les écrous de manière à ce que le socle vienne se poser horizontallement.
  - Comme pour la partie basse fixer le haut avec des écrous à oreilles
    
-   [imagefinale]
+   ![imagefinale](pictures/assembly_guide/trepied/final_v2.png)
    
 ## 4. Assemblage du casque
 <details>
@@ -225,12 +226,16 @@ Imprimer les pièces de suport de l'écran ainsi que celles du support de batter
 
 ### Etape 3 - Percer la coque extérieur du casque
  - Réaliser une ouverture sur le haut du casque pour pouvoir accéder à la prise hdmi de l'écran
- - Percer également l'avant de la coque pour pouvoir viser la partie basse du support de la batterie.
+ - Percer également l'avant de la coque pour pouvoir visser la partie basse du support de la batterie.
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/fefa367d9d9f9491e3bdaf13d451372837209f19/docs/pictures/assembly_guide/casque/trou_coque.jpg" width="300"/>
 
 ### Etape 4 - Assemblage de la batterie
- - Mettre de la mousse sur les diagonales du support inférieur et supérieur de la batterie (on peut aussi en ajouter à l'intérieur si la baterie bouge, mais pas trop pour ne pas qu'elle chauffe)
- - 
+
+> [!NOTE]
+> Sur les supports la mousse permet de caler les éléments.
+
+ - Mettre de la mousse sur les diagonales du support inférieur et supérieur de la batterie
+   
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/bot_support.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/top_support_bat.jpg" width="300"/> 
 
  - Visser la partie basse du support de la batterie au casque
@@ -241,7 +246,7 @@ Imprimer les pièces de suport de l'écran ainsi que celles du support de batter
  - Mettre l'écran dans le casque
  - fermer le casque
  - brancher le cable hdmi et relier le cable usb à la batterie
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/casque_entier.jpg" width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/casque_entier.jpg" width="800"/>
 
 ## 5. Assemblage du câble
 <details>
