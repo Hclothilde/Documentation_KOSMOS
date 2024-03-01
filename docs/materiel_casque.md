@@ -1,13 +1,16 @@
-# materiel casque
-## Outils:
+# Materiel Casque
 
 ## Visserie:
+
+>[!Note]
+>Pour désigner les spécificitées d'une vis on utilise des lettres. Ici la lettre M signifie que la vis à un filetage métrique (ISO). Le chiffre qui suit le M correspond au diamètre en mm. La veleur d'après correspond à la longueur du filetage de la vis.
+
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |        |           |         9|écrou M2                  |                                         |          |
-|        |           |         4|vis M2*4mm                |Fixer le l'ecran ducasque à son support               |          |
-|        |           |         5|vis M2*6mm                |Fixer le boitier de la batterie au casque             |          |
-|        |           |         4|vis M2*8mm                |Fixer le couvercle du boitier de la batterie          |          |
+|![vis_m2*4mm]()        |[RS PRO 914-1624](https://fr.rs-online.com/web/p/vis-a-metaux/9141624)           |         4|vis M2*4mm                |Fixer le l'ecran du casque à son support              |          |
+|![vis_m2*6mm]()        |[RS PRO 526-906](https://fr.rs-online.com/web/p/vis-a-metaux/0526906)           |         5|vis M2*6mm                |Fixer le boitier de la batterie au casque             |          |
+|![vis_m2*8mm]()        |[RS PRO 914-1475](https://fr.rs-online.com/web/p/vis-a-metaux/9141475)           |         4|vis M2*8mm                |Fixer le couvercle du boitier de la batterie          |          |
 
 ## Cable:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
