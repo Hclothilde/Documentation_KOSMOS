@@ -7,7 +7,7 @@
 
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|        |           |         9|écrou M2                  |                                         |          |
+|![ecrou_m2](pictures/equipments/casque/ecrou_m2.PNG)        |![RS PRO 248-4551](https://fr.rs-online.com/web/p/ecrous-hexagonaux/2484551)           |         9|écrou M2                  |                                         |          |
 |![vis_m2*4mm](pictures/equipments/casque/vis_m2_4mm..PNG)  |[RS PRO 914-1624](https://fr.rs-online.com/web/p/vis-a-metaux/9141624)           |         4|vis M2*4mm                |Fixer l'ecran du casque à son support              | Récup  |
 |![vis_m2*6mm](pictures/equipments/casque/vis_m2_6mm..PNG) |[RS PRO 526-906](https://fr.rs-online.com/web/p/vis-a-metaux/0526906)           |         5|vis M2*6mm                |Fixer le boitier de la batterie au casque             | Récup         |
 |![vis_m2*8mm](pictures/equipments/casque/vis_m2_8mm..PNG)  |[RS PRO 914-1475](https://fr.rs-online.com/web/p/vis-a-metaux/9141475)           |         4|vis M2*8mm                |Fixer le couvercle du boitier de la batterie          | Récup         |
