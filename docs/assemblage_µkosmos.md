@@ -128,8 +128,8 @@
 <details>
   <summary> Outils </summary>
   
-  * 
-  * 
+  * ex1
+  * ex2
   
 </details>
 
@@ -158,7 +158,7 @@
 </details>
 
 ### Etape 1 - Impression 3D
-Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de maintient du tube plexy
+Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de maintient du caisson vidéo.
 
 ### Etape 2 - Assemblage de la partie inférieur du trépied
  - Découpé le tube en aluminium de manière à obtenir trois segment d'environ "50cm"
@@ -214,6 +214,34 @@ Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de 
   [Tableau matériel casque](materiel_casque.md)
     
 </details>
+
+### Etape 1 - Impression 3D
+Imprimer les pièces de suport de l'écran ainsi que celles du support de batterie.
+
+### Etape 2 - Assemblage écran
+ - Visser l'écran à sont support
+ - Mettre de la mousse sur les diagonales du support d'écan
+ - brancher un cable micro usb
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+
+### Etape 3 - Percer la coque extérieur du casque
+ - Réaliser une ouverture sur le haut du casque pour pouvoir accéder à la prise hdmi de l'écran
+ - Percer également l'avant de la coque pour pouvoir viser la partie basse du support de la batterie.
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+
+### Etape 4 - Assemblage de la batterie
+ - Mettre de la mousse sur les diagonales du support inférieur et supérieur de la batterie (on peut aussi en ajouter à l'intérieur si la baterie bouge, mais pas trop pour ne pas qu'elle chauffe)
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+
+ - Visser la partie basse du support de la batterie au casque
+ - placer la batterie à l'intérieur
+ - visser la partie supérieur du supporrt pour le fermer
+
+### Etape 5 - Asssemblage final
+ - Mettre l'écran dans le casque
+ - fermer le casque
+ - brancher le cable hdmi et relier le cable usb à la batterie
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
 
 ## 5. Assemblage du câble
 <details>
