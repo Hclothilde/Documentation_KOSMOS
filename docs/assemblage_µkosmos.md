@@ -203,8 +203,7 @@ Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de 
 <details>
   <summary> Outils </summary>
   
-  * ex1
-  * ex2
+  * foret M2 {[Etape 3](assemblage_µkosmos.md#etape-3---percer-la-coque-ext%C3%A9rieur-du-casque)}
   
 </details>
 
