@@ -222,16 +222,17 @@ Imprimer les pièces de suport de l'écran ainsi que celles du support de batter
  - Visser l'écran à sont support
  - Mettre de la mousse sur les diagonales du support d'écan
  - brancher un cable micro usb
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/support_ecran.jpg" width="300"/>
 
 ### Etape 3 - Percer la coque extérieur du casque
  - Réaliser une ouverture sur le haut du casque pour pouvoir accéder à la prise hdmi de l'écran
  - Percer également l'avant de la coque pour pouvoir viser la partie basse du support de la batterie.
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/fefa367d9d9f9491e3bdaf13d451372837209f19/docs/pictures/assembly_guide/casque/trou_coque.jpg" width="300"/>
 
 ### Etape 4 - Assemblage de la batterie
  - Mettre de la mousse sur les diagonales du support inférieur et supérieur de la batterie (on peut aussi en ajouter à l'intérieur si la baterie bouge, mais pas trop pour ne pas qu'elle chauffe)
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+ - 
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/bot_support.jpg" width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/top_support_bat.jpg" width="300"/> 
 
  - Visser la partie basse du support de la batterie au casque
  - placer la batterie à l'intérieur
@@ -241,7 +242,7 @@ Imprimer les pièces de suport de l'écran ainsi que celles du support de batter
  - Mettre l'écran dans le casque
  - fermer le casque
  - brancher le cable hdmi et relier le cable usb à la batterie
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/46f831fdac85ba5268682a896dfe86de68dc4d20/docs/pictures/assembly_guide/trepied/fixation_ber.jpg" width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/2b400d2080259c5bb73a4db916ddbb828bc9c9a8/docs/pictures/assembly_guide/casque/casque_entier.jpg" width="300"/>
 
 ## 5. Assemblage du câble
 <details>
