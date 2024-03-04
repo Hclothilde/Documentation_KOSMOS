@@ -136,7 +136,7 @@
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel caisson vidéo](materiel_caisson_video.md)
+  [Tableau matériel caisson vidéo](/../µKOSMOS/hardware/materiel_caisson_video.md)
     
 </details>
 
@@ -153,7 +153,7 @@
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel trépied](materiel_trepied.md)
+  [Tableau matériel trépied](/../µKOSMOS/hardware/materiel_trepied.md)
     
 </details>
 
@@ -211,7 +211,7 @@ Imprimer les pièces inférieur et supérieur du socle ainsi que les pièces de 
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel casque](materiel_casque.md)
+  [Tableau matériel casque](/../µKOSMOS/hardware/materiel_casque.md)
     
 </details>
 
@@ -260,7 +260,7 @@ Imprimer les pièces de suport de l'écran ainsi que celles du support de batter
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel câble](materiel_cable.md)
+  [Tableau matériel câble](/../µKOSMOS/hardware/materiel_cable.md)
     
 </details>
 
@@ -276,7 +276,7 @@ Imprimer les pièces de suport de l'écran ainsi que celles du support de batter
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel paravane](materiel_paravane.md)
+  [Tableau matériel paravane](/../µKOSMOS/hardware/materiel_paravane.md)
     
 </details>
 
