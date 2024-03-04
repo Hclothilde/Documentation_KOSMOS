@@ -1,20 +1,20 @@
 # Materiel Trépied
 ## Visserie:
 | Visuel | Référence | Quantité | Dénomination | Usage | Tips |
-|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|        |           |         1| anneau d'accroche M10 A4 |Permet d'attacher un bout au micro kosmos |          |
-|        |           |         3| clou                     |Permetra de crer une butée pour le socle inférieur |peuvent être remplacé  par n'impourte quelle tige temps qu'elle est déformable          |
-|        |           |         6| écrou M4                 |                                         |          |
-|        |           |        10| écrou M6                 |                                         |          |
-|        |           |         8| écrou nylstop  M6         |Evite au montage de se déserrer          |peuvent etre remplacé par un montage écrou contre écrou auquel (cas il faut ajouter 6 écrou M6)         |
-|        |           |        12| écrou oreille M6         |                                         |          |
+|-------|-----------|----------|--------------------------|-----------------------------------------|----------|
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/c5ffe61db21c825193d5f4a77e70ee0dd1655b68/docs/pictures/equipments/trepied/anneau_m10.PNG" width="150"/>        |[RS PRO 124-4841](https://fr.rs-online.com/web/p/anneaux-de-levage/1244841?gb=s)           |         1| anneau d'accroche M10 A4 |Permet d'attacher un bout au micro kosmos |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/c5ffe61db21c825193d5f4a77e70ee0dd1655b68/docs/pictures/equipments/trepied/clou.PNG" width="150"/>        |[RS PRO 177-6994](https://fr.rs-online.com/web/p/clous/1776994)           |         3| clou                     |Permetra de crer une butée pour le socle inférieur |peuvent être remplacé  par n'impourte quelle tige temps qu'elle est déformable          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/c5ffe61db21c825193d5f4a77e70ee0dd1655b68/docs/pictures/equipments/trepied/ecrou_m4.PNG" width="150"/>        |[RS PRO 521-872](https://fr.rs-online.com/web/p/ecrous-hexagonaux/0189579)           |         6| écrou M4                 |                                         |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/c5ffe61db21c825193d5f4a77e70ee0dd1655b68/docs/pictures/equipments/trepied/ecrou_m6.PNG" width="150"/>        |[RS PRO 189-591](https://fr.rs-online.com/web/p/ecrous-hexagonaux/0189591)           |        10| écrou M6                 |                                         |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/c5ffe61db21c825193d5f4a77e70ee0dd1655b68/docs/pictures/equipments/trepied/ecrou%20frein%20m6.PNG" width="150"/>        |[RS PRO 767-832](https://fr.rs-online.com/web/p/ecrous-hexagonaux/0767832)           |         8| écrou frein  M6         |Evite au montage de se déserrer          |peuvent etre remplacé par un montage écrou contre écrou auquel (cas il faut ajouter 6 écrou M6)         |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/c5ffe61db21c825193d5f4a77e70ee0dd1655b68/docs/pictures/equipments/trepied/ecrou_oreilles_m6.PNG" width="150"/>        |[RS PRO 521-872](https://fr.rs-online.com/web/p/ecrous-a-oreilles/0521872)           |        12| écrou oreille M6         |Ecrou placée en bout des tiges filetées            |          |
 |        |           |         1| fil de fer               |"réduira le mouvement des pieds"                                         |          |
-|        |           |        24| rondelle M6              |                                         |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/c5ffe61db21c825193d5f4a77e70ee0dd1655b68/docs/pictures/equipments/trepied/rondelle_m6.PNG" width="150"/>        |[RS PRO 189-658](https://fr.rs-online.com/web/p/rondelles/0189658)           |        24| rondelle M6              |                                         |          |
 |![tige filetée](pictures/equipments/trepied/tige_filetee.PNG)        |[RS PRO 530-321](https://fr.rs-online.com/web/p/tiges-filetees/0530321?gb=s)     |      1m50| tige filletée M6         | Permet de faire le lien entre le socle inférieur et supérieur    |          |
-|        |           |         4| vis M4 longueur 20mm     |                                         |          |
-|        |           |         2| vis M4 longueur 40mm     |                                         |          |
-|        |           |         3| vis M6 longueur 50mm     |                                         |          |
-|        |           |         1| vis M10 longueur 40mm    |                                         |          |
+| <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/476cfb4e406db8f2a71ea4fcc6a18983dce0f839/docs/pictures/equipments/trepied/vis_m4_20mm.PNG" width="150"/>        |[RS PRO 187-1279](https://fr.rs-online.com/web/p/vis-a-six-pans/1871279)           |         4| vis M4 * 20mm     |Permet d'assembler les partie inférieur et supérieur du support du caisson vidéo   |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/476cfb4e406db8f2a71ea4fcc6a18983dce0f839/docs/pictures/equipments/trepied/vis_m4_35mm.PNG" width="150"/>        |[RS PRO 124-7349](https://fr.rs-online.com/web/p/vis-a-six-pans/1247349)           |         2| vis M4 * 35mm     |Permet de fixer le support du caisson vidéo au socle supérieur du trépied          |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/476cfb4e406db8f2a71ea4fcc6a18983dce0f839/docs/pictures/equipments/trepied/vis_m6_40mm.PNG" width="150"/>        |[RS PRO 187-1459](https://fr.rs-online.com/web/p/vis-a-six-pans/1871459)           |         3| vis M6 * 40mm     |Permet de fixer les plombs sur les pieds                                         |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/476cfb4e406db8f2a71ea4fcc6a18983dce0f839/docs/pictures/equipments/trepied/vis_m10_40mm.PNG" width="150"/>        |[RS PRO 190-383](https://fr.rs-online.com/web/p/vis-a-tete-hexagonale/0190383)           |         1| vis M10 * 40mm    |Permet de fixer l'anneau d'accroche                                         |          |
 
 
 ## Pièces:
