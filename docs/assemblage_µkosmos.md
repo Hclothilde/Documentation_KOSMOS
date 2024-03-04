@@ -29,7 +29,7 @@
 <details>
   <summary> Materiel </summary>
   
-  [Tableau matériel boitier électronique](hardware/materiel_boitier_electronique.md)
+  [Tableau matériel boitier électronique](/../µKOSMOS/hardware/materiel_boitier_electronique.md)
     
 </details>
 
