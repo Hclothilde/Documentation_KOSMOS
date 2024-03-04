@@ -12,16 +12,15 @@
 
 ## Visserie:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
-|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|        |           |         2|écrou M3                  |Permet fixer le bulgin hdmi                       |          |
-|        |           |         4|écrou M3                  |Permet fixer le ventilateur                       |          |
-|        |           |         3|vis M2.5 * 5 mm           |Permet de fixer la carte Ethernet avec la carte Raspberry        |          |
-|        |           |         4|vis M2.5 * 6 mm           |Permet de fixer la carte raspberry au boitier              |          |
-|        |           |         2|vis M3 * 8 mm             |Permet de fixer le bulgin hdmi              |          |
-|        |           |         4|vis M3 * 16 mm            |Permet de fixer le ventilateur              |          |
-|        |           |         6|vis M4 * 16 mm            |Permet la fermeture du boitier              |          |
-|        |           |         4|"entretoise hexagonale M2.5 * ...mm"   |Permet de surelever la carte raspberry                     |          |
-|        |           |         4|"entretoise hexagonale  M2.5 * ...mm"   |Permet de surelever la carte ethernet                      |          |
+|-------|-----------|----------|--------------------------|-----------------------------------------|----------|
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/ecrou_m3.PNG" width="150"/>         |[RS PRO 189-563](https://fr.rs-online.com/web/p/ecrous-hexagonaux/0189563)           |         6|écrou M3                  |Permet fixer le bulgin hdmi et  le ventilateur                 |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/vis_m2.5_5mm.PNG" width="150"/>        |[RS PRO 908-7649](https://fr.rs-online.com/web/p/vis-a-metaux/9087649)           |         3|vis M2.5 * 5 mm           |Permet de fixer la carte Ethernet avec la carte Raspberry        |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/vis_m2.5_6mm.PNG" width="150"/>        |[RS PRO 526-928](https://fr.rs-online.com/web/p/vis-a-metaux/0526928)           |         4|vis M2.5 * 6 mm           |Permet de fixer la carte raspberry au boitier              |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/vis_m3_8mm.PNG" width="150"/>        |[RS PRO 914-1942](https://fr.rs-online.com/web/p/vis-a-metaux/9141942)           |         2|vis M3 * 8 mm             |Permet de fixer le bulgin hdmi              |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/vis_m3_16mm.PNG" width="150"/>        |[RS PRO 560-619](https://fr.rs-online.com/web/p/vis-a-metaux/0560619)           |         4|vis M3 * 16 mm            |Permet de fixer le ventilateur              |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/vis_m4_16mm.PNG" width="150"/>        |[RS PRO 190-513](https://fr.rs-online.com/web/p/vis-a-metaux/0190513)           |         6|vis M4 * 16 mm            |Permet la fermeture du boitier              |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/entretoise_filetee_15.png" width="150"/>        |[RS PRO 184-286](https://fr.rs-online.com/web/p/entretoises-filetees/1842896)           |         4|entretoise filetée M2.5 * 15 mm   |Permet de surelever la carte raspberry                     |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/entretoise_filetee_6.png" width="150"/>        |[RS PRO 184-3014](https://fr.rs-online.com/web/p/entretoises-filetees/1843014)           |         4|entretoise filetée  M2.5 * 6 mm   |Permet de surelever la carte ethernet                      |          |
  
 
 ## Cable:
