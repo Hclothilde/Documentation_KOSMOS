@@ -2,9 +2,6 @@
 
 ## Visserie:
 
->[!Note]
->Pour désigner les spécificitées d'une vis on utilise des lettres. Ici la lettre M signifie que la vis à un filetage métrique (ISO). Le chiffre qui suit le M correspond au diamètre en mm. La veleur d'après correspond à la longueur du filetage de la vis.
-
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------|-----------|----------|--------------------------|-----------------------------------------|----------|
 | <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/a27fec48ab54bbe11e7282f7d92b7236f5bac5f7/docs/pictures/equipments/casque/ecrou_m2.PNG" width="150"/>        |![RS PRO 248-4551](https://fr.rs-online.com/web/p/ecrous-hexagonaux/2484551)           |         9|écrou M2                  |                                         |          |
