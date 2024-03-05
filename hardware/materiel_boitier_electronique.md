@@ -1,15 +1,5 @@
 # Materiel Boitier Electronique
 
->[!Warning]
->Tous les liens vers les sites fournisseur sont mis à titre indicatif.  
->Dans le but d'une démarche low tech si vous pouvez privilégier la récupération plutôt que l'achat de pièce neuves faites le.
->
->Certains composants tel que les vis peuvent être modifiées et ne dépendes que de ce que vous avez déjà et de ce dont vous avez besoin.
->Il faut aussi noté que certaine vis sont comprises dans certains kits, dans le tableau ci-dessous vous trouverez toutes les vis nécessaire y compris celles intégrées dans les kits proposés.
-
-
-## Outils:
-
 ## Visserie:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------|-----------|----------|--------------------------|-----------------------------------------|----------|
