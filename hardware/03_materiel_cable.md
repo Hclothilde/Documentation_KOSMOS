@@ -25,7 +25,6 @@
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |![cable_ethernet](/../µKOSMOS/docs/pictures/equipments/cable/cable_ethernet.PNG)   |[ROLINE 	21.15.0871](https://fr.farnell.com/roline/21-15-0871/cordon-de-brassage-rj45-m-m-30m/dp/3003054?ost=21.15.0871)         |         1| cable ethernet 15m         |Permet ""   |          |
-|![cable_8pin](/../µKOSMOS/docs/pictures/equipments/cable/8pin_cable.png)        |[COB-1681-SS](https://rov-expert.fr/blue-trail-engineering/525-cobalt-8-pin-male-connector-on-1-meter-cable-single-ended.html)          |         1|cable 8pin      | Fait le lien entre ... et ...                        |          |
 
 
 ## Pièce Autres :
