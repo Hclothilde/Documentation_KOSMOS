@@ -40,12 +40,6 @@
 > [!NOTE]
 > Ce câble fera le lien entre la batterie et la Raspberry et permetta d'alimenter la carte. Le commutateur permet de couper le courant sans débrancher les câbles.
 
-> [!TIP]
-> Optionel : connecteur cosse  
-> Ici des connecteurs cosses ont été utilisés mais ils ne sont pas obligatoires vous pouvez simplement réaliser des soudures entre les pins et les câbles
-> 
-> Il est également important de noté que le commutateur peut lui aussi être modifié, vous aurez seulement besoin d'un intérupteur avec auto maintient (qui reste dans sa position losrque l'on appui dessus)
-
 - couper le câble USB à une trentaine de centimètre du branchement USB  
 - enfiler la gaine thermo sur le câble (elle sera chauffée à la fin)  
 - utiliser les connecteurs cosses pour faire le lien entre les pins du commutateur et le câble USB, brancher le fil noir et le fil rouge  
@@ -101,10 +95,6 @@
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/e7b992de14c27f3d806314fa78ff201460aad8f4/docs/pictures/assembly_guide/velcro_trou.jpg" width="300"/>
 
 ### Etape 4 - Fixation du receiver gaming, de la carte gps et du ventilateur dans le boitier
-
-> [!TIP]
-> Optionnel: velcro
-> le velcro permet de ne pas coller définitivement les composants mais il est optionnel. Il peut être remplacer.
 
 - fixer le receiver gaming et la carte gp à l'aide de velcro
 - visser le ventilateur
