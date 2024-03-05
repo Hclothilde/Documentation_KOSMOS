@@ -1,10 +1,14 @@
 # Matériel Cable
 
+## Outils
+| Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
+|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
+|![kit sertissage]()        |[kit sertissage]()          |         1|kit sertissage câble ethernet     |Permet d'assembler le connecteur sur le câble ethernet                  |          |
+
 ## Visserie:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |![manille](/../µKOSMOS/docs/pictures/equipments/cable/manille.PNG)        |[RS PRO 124-4849](https://fr.rs-online.com/web/p/manilles/1244849?cm_mmc=FR-PLA-DS3A-_-google-_-CFS_FR_FR_RS+PRO_PO4700199950-_-Acc%C3%A8s,+Stockage+et+manutention-_-1244849&matchtype=&pla-2260779340447&gad_source=1&gclid=EAIaIQobChMI7YCP0uXQhAMVzj8GAB0ZgAvmEAQYASABEgLiavD_BwE&gclsrc=aw.ds)           |        3| manille |Permet d'accrocher un bout et de tirer sur le dispositif sans détériorier le cable et le connecteur |          |
-
 
 
 
@@ -22,4 +26,14 @@
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |![cable_ethernet](/../µKOSMOS/docs/pictures/equipments/cable/cable_ethernet.PNG)   |[ROLINE 	21.15.0871](https://fr.farnell.com/roline/21-15-0871/cordon-de-brassage-rj45-m-m-30m/dp/3003054?ost=21.15.0871)         |         1| cable ethernet 15m         |Permet ""   |          |
 |![cable_8pin](/../µKOSMOS/docs/pictures/equipments/cable/8pin_cable.png)        |[COB-1681-SS](https://rov-expert.fr/blue-trail-engineering/525-cobalt-8-pin-male-connector-on-1-meter-cable-single-ended.html)          |         1|cable 8pin      | Fait le lien entre ... et ...                        |          |
+
+
+## Pièce Autres :
+| Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
+|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
+|![gaine dynema]()        |[gaine dynema]()          |         1|gaine dynema     |Permet de créer des points d'accroche                        |          |
+|![gaine thermo]()        |[gaine thermo]()          |         1|gaine thermo     |Protège les connexions entre les câbles                      |          |
+|![scotch]()        |[scotch]()          |         1|scotch     |Protège les connexions entre les câbles                      |          |
+
+
 
