@@ -1,7 +1,7 @@
 #Matériel général
 
 >[!Warning]
->Tous les liens vers les sites fournisseur sont mis à titre indicatif.  
+>Tous les liens vers les sites fournisseurs sont mis à titre indicatif.  
 >Dans le but d'une démarche low tech privilégier la récupération plutôt que l'achat.
 >
 >Certains composants tel que les vis peuvent être modifiés et ne dépendes que de ce que vous avez déjà et de ce dont vous avez besoin.
