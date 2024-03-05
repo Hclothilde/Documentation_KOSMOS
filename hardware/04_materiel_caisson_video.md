@@ -37,7 +37,7 @@
 ## Impresion 3D:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![support]()        |[support]()|      1|              |                                |          |
+|![support](/../µKOSMOS/docs/pictures/3Dpart/caisson_video/support_carte.PNG)        |[support_carte](/../µKOSMOS/hardware/3Dprint_files/caisson_video/Support_carte_caisson.stl)|      1| support carte             |Permet de fixer la carte ethernet                |          |
 
 
 
