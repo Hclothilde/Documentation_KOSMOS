@@ -32,7 +32,7 @@
 ## Pièce Autres :
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![gaine dyneema](/../µKOSMOS/docs/pictures/equipments/cable/gaine_dyneema.PNG)        |[ALpha-Wire 795-6105](https://fr.rs-online.com/web/p/gaines-electriques/7956105?cm_mmc=FR-PLA-DS3A-_-google-_-CSS_FR_FR_iPMAX_2U-_--_-7956105&matchtype=&&gad_source=1&gclid=EAIaIQobChMIkcy9nLzdhAMVn2lBAh3doQBtEAQYAyABEgKKRfD_BwE&gclsrc=aw.ds)          |         1|gaine dynema     |Permet de créer des points d'accroche                        |          |
+|![gaine dyneema](/../µKOSMOS/docs/pictures/equipments/cable/gaine_dyneema.PNG)        |[ALpha-Wire 795-6105]()          |         1|gaine dyneema     |Permet de créer des points d'accroche                        |          |
 |![gaine thermo](/../µKOSMOS/docs/pictures/equipments/cable/gaine_thermo_6mm.PNG)        |[RS PRO 700-4535](https://fr.rs-online.com/web/p/gaines-thermoretractables/7004535?gb=s)          |         1|gaine thermo 6mm     |Protège les connexions entre les câbles                      |          |
 
 
