@@ -91,6 +91,12 @@
 > Si votre boitier est différent réfléchisser à la meilleur manière de l'organiser à l'intérieur
 
 - percer des trous pour les connecteurs et pour les vis qui les fixeront
+  - connecteur bulgin : un trou de 22mm de diamiètre et 2 trous de 3.5mm
+  - connecteur ethernet : un trou de 27mm de diamètre
+  - bouton poussoir : un trou de 16mm de diamètre
+  - commutateur : un trou de 29mm * 22mm
+  - ventillateur : un trou de 26mm de diamètre et 4 trous de 3mm pour les vis
+  - aération : un trou de 20mm de diamètre
   
 <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/e7b992de14c27f3d806314fa78ff201460aad8f4/docs/pictures/assembly_guide/velcro_trou.jpg" width="300"/>
 
