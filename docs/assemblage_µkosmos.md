@@ -91,7 +91,7 @@
 > Si votre boitier est différent réfléchisser à la meilleur manière de l'organiser à l'intérieur
 
 - percer des trous pour les connecteurs et leurs vis
-  - connecteur bulgin : un trou de 22mm de diamiètre et 2 trous de 3.5mm (vis)
+  - connecteur bulgin : un trou de 22mm de diamètre et 2 trous de 3.5mm (vis)
   - connecteur ethernet : un trou de 27mm de diamètre
   - bouton poussoir : un trou de 16mm de diamètre
   - commutateur : un trou de 29mm * 22mm
