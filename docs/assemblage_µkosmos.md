@@ -91,15 +91,15 @@
 > Si votre boitier est différent réfléchisser à la meilleur manière de l'organiser à l'intérieur
 
 - percer des trous pour les connecteurs et leurs vis
-  - connecteur bulgin : un trou de 22mm de diamètre et 2 trous de 3.5mm (vis)
-  - connecteur ethernet : un trou de 27mm de diamètre
-  - bouton poussoir : un trou de 16mm de diamètre
-  - commutateur : un trou de 29mm * 22mm
-  - ventillateur : un trou de 26mm de diamètre et 4 trous de 3mm (vis)
-  - aération : un trou de 20mm de diamètre
-  - fixation raspberry au boitier : 4 trous de 2.5mm (vis)
+  - (1) connecteur bulgin : un trou de 22mm de diamètre et 2 trous de 3.5mm (vis)
+  - (2) connecteur ethernet : un trou de 27mm de diamètre
+  - (3) bouton poussoir : un trou de 16mm de diamètre
+  - (4) commutateur : un trou de 29mm * 22mm
+  - (5) ventillateur : un trou de 26mm de diamètre et 4 trous de 3mm (vis)
+  - (6) aération : un trou de 20mm de diamètre
+  - (7) fixation raspberry au boitier : 4 trous de 2.5mm (vis)
   
-<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/e7b992de14c27f3d806314fa78ff201460aad8f4/docs/pictures/assembly_guide/velcro_trou.jpg" width="300"/>
+<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/1d26dc7c550473cd11c55e5427cf5d3865ed02c2/docs/pictures/assembly_guide/boitier/boitier_trou.jpg" width="300"/>
 
 ### Etape 4 - Fixation du receiver gaming, de la carte gps et du ventilateur dans le boitier
 
