@@ -10,3 +10,36 @@
 
 >[!Note]
 >Pour désigner les spécificités d'une vis on utilise des lettres. Ici la lettre M signifie que la vis à un filetage métrique (ISO). Le chiffre qui suit le M correspond au diamètre en mm. La valeur d'après correspond à la longueur du filetage de la vis.
+
+## Electronique :
+| Visuel | Référence | Quantité | Dénomination | Usage | Substituabilité | Tips/Conseil |
+|-------|-----------|----------|--------------------------|--------------------|-------------------------------|----------|
+|||||||
+
+## Câble :
+| Visuel | Référence | Quantité | Dénomination | Usage | Substituabilité | Tips/Conseil |
+|-------|-----------|----------|--------------------------|--------------------|-------------------------------|----------|
+|||||||
+
+## Connecteur :
+| Visuel | Référence | Quantité | Dénomination | Usage | Substituabilité | Tips/Conseil |
+|-------|-----------|----------|--------------------------|--------------------|-------------------------------|----------|
+|||||||
+
+## Mécanique :
+| Visuel | Référence | Quantité | Dénomination | Usage | Substituabilité | Tips/Conseil |
+|-------|-----------|----------|--------------------------|--------------------|-------------------------------|----------|
+|||||||
+
+## Visserie :
+| Visuel | Référence | Quantité | Dénomination | Usage | Substituabilité | Tips/Conseil |
+|-------|-----------|----------|--------------------------|--------------------|-------------------------------|----------|
+|||||||
+
+## Consommable :
+| Visuel | Référence | Quantité | Dénomination | Usage | Substituabilité | Tips/Conseil |
+|-------|-----------|----------|--------------------------|--------------------|-------------------------------|----------|
+|||||||
+
+
+
