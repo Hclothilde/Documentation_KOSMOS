@@ -1,14 +1,10 @@
 # Materiel caisson vidéo
-## Outils:
 
-## Visserie:
+## Electronique:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/ecrou_m1.6.PNG" width="150"/>        |[RS PRO 179-5726](https://fr.rs-online.com/web/p/ecrous-hexagonaux/1795726)           |         4|écrou M1.6                 |                                         |          |
-|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/ecrou_m3.PNG" width="150"/>         |[RS PRO 189-563](https://fr.rs-online.com/web/p/ecrous-hexagonaux/0189563)           |         12|écrou M3                  |Permet d'assembler la carte ethernet, son support et la pi cam                 |          |
-|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/entretoise_5mm.PNG" width="150"/>        |[RS PRO 224-0370](https://fr.rs-online.com/web/p/entretoises/2240370)           |         4|entretoise M1.6 * 4.5mm                |Permet de surélever la carte de son support                            |          |
-|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/vis_m1.6_10mm.PNG" width="150"/>        |[RS PRO 179-5696](https://fr.rs-online.com/web/p/vis-a-metaux/1795696)           |         4|vis M1.6 * 10mm                |Permet de fixer la carte ethernet à son support                     |          |
-|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/vis_m3_40mm.PNG" width="150"/>        |[RS PRO 914-1652](https://fr.rs-online.com/web/p/vis-a-metaux/9141652)           |         4|vis M3 * 40mm                |Permet de fixer la Pi Cam au flange cap du tube                                    |          |
+|![PiCam](/../µKOSMOS/docs/pictures/equipments/caisson_video/picam.png)        |[Raspberry Pi SC0261](https://fr.rs-online.com/web/p/cameras-pour-raspberry-pi/2012852?gb=s)        |         1| Camera raspberry Pi (Pi Cam)           |Camera compatible avec la carte Rasberry Pi             |          |
+|![objectif_4mm](/../µKOSMOS/docs/pictures/equipments/caisson_video/objectif_4mm.png)        |[TECHSPEC Objectif à distance focale fixe série UC 4mm](https://www.edmundoptics.fr/p/4mm-uc-series-fixed-focal-length-lens/2966/)  |         1| Objectif 4mm     |Permet d'améliorer les performance de la Pi Cam            |          |
 
 
 ## Connecteur:
@@ -18,11 +14,6 @@
 |![kit terminaison](/../µKOSMOS/docs/pictures/equipments/caisson_video/terminaison_kit.PNG)        |[COB-3180-SS](https://bluerov-solutions.com/produkt/cobalt-series-cable-termination-kit-regular/)          |         1|8 pin terminaison kit       |Protège le connecteur lorsque le cable n'est pas branché  Une partie du kit est utiliser sur la cable                         |          |
 |![8pin](/../µKOSMOS/docs/pictures/equipments/caisson_video/8pin_connector.png)        |[COB-138C-SH](https://rov-expert.fr/blue-trail-engineering/498-cobalt-8-pin-connector-on-custom-length-cable-double-ended-shielded.html)        |         1| Connecteur 8 pin           |Permet de faire le lien avec le "cable" et la carte de la PiCam              |          |
 
-## Electronique:
-| Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
-|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
-|![PiCam](/../µKOSMOS/docs/pictures/equipments/caisson_video/picam.png)        |[Raspberry Pi SC0261](https://fr.rs-online.com/web/p/cameras-pour-raspberry-pi/2012852?gb=s)        |         1| Camera raspberry Pi (Pi Cam)           |Camera compatible avec la carte Rasberry Pi             |          |
-|![objectif_4mm](/../µKOSMOS/docs/pictures/equipments/caisson_video/objectif_4mm.png)        |[TECHSPEC Objectif à distance focale fixe série UC 4mm](https://www.edmundoptics.fr/p/4mm-uc-series-fixed-focal-length-lens/2966/)  |         1| Objectif 4mm     |Permet d'améliorer les performance de la Pi Cam            |          |
 
 ## Mécanique:
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
@@ -38,6 +29,16 @@
 | Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
 |-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
 |![support](/../µKOSMOS/docs/pictures/3Dpart/caisson_video/support_carte.PNG)        |[support_carte](/../µKOSMOS/hardware/3Dprint_files/caisson_video/Support_carte_caisson.stl)|      1| support carte             |Permet de fixer la carte ethernet                |          |
+
+
+## Visserie:
+| Visuel | Référence | Quantité | Dénomination | Usage | Conseil |
+|-------:|-----------|----------|--------------------------|-----------------------------------------|----------|
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/ecrou_m1.6.PNG" width="150"/>        |[RS PRO 179-5726](https://fr.rs-online.com/web/p/ecrous-hexagonaux/1795726)           |         4|écrou M1.6                 |                                         |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/9c675f217808fdb8bdc5af4830e3bf44621d47e7/docs/pictures/equipments/boitier/ecrou_m3.PNG" width="150"/>         |[RS PRO 189-563](https://fr.rs-online.com/web/p/ecrous-hexagonaux/0189563)           |         12|écrou M3                  |Permet d'assembler la carte ethernet, son support et la pi cam                 |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/entretoise_5mm.PNG" width="150"/>        |[RS PRO 224-0370](https://fr.rs-online.com/web/p/entretoises/2240370)           |         4|entretoise M1.6 * 4.5mm                |Permet de surélever la carte de son support                            |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/vis_m1.6_10mm.PNG" width="150"/>        |[RS PRO 179-5696](https://fr.rs-online.com/web/p/vis-a-metaux/1795696)           |         4|vis M1.6 * 10mm                |Permet de fixer la carte ethernet à son support                     |          |
+|<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/vis_m3_40mm.PNG" width="150"/>        |[RS PRO 914-1652](https://fr.rs-online.com/web/p/vis-a-metaux/9141652)           |         4|vis M3 * 40mm                |Permet de fixer la Pi Cam au flange cap du tube                                    |          |
 
 
 
