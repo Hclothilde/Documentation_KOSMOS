@@ -70,6 +70,9 @@ indice substituabilité :
 - Tourne vis (Tête différentes en fonction des vis utilisées)
 - Perçeuse
 - Couronne perçeuse (permet de réaliser les trous pour les connecteurs)
+- kit de soudure
+- pistolet chauffant ou briquet
+- cuteur
 
 
 
