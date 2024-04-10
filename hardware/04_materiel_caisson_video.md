@@ -11,7 +11,7 @@
 | Visuel | Référence | Quantité | Dénomination | Usage |Substituabilité | Tips/Conseil |
 |-------:|-----------|----------|--------------------------|--------------------|---------------------|----------|
 |![kit terminaison](/../µKOSMOS/docs/pictures/equipments/caisson_video/terminaison_kit.PNG)        |[COB-3180-SS](https://bluerov-solutions.com/produkt/cobalt-series-cable-termination-kit-regular/)          |         1|8 pin terminaison kit       |Protège le connecteur lorsque le cable n'est pas branché  Une partie du kit est utiliser sur la cable                         |<blockquote> :red_circle: </blockquote><br>         |           |
-|![8pin](/../µKOSMOS/docs/pictures/equipments/caisson_video/8pin_connector.png)        |[COB-138C-SH](https://rov-expert.fr/blue-trail-engineering/498-cobalt-8-pin-connector-on-custom-length-cable-double-ended-shielded.html)        |         1| Connecteur 8 pin           |Permet de faire le lien avec le "cable" et la carte de la PiCam              |<blockquote> :red_circle: </blockquote><br>         |           |
+|![8pin](/../µKOSMOS/docs/pictures/equipments/caisson_video/8pin_connector.png)        |[COB-1180-R1](https://www.bluetrailengineering.com/product-page/cobalt-series-bulkhead-connector)        |         1| Connecteur 8 pin           |Permet de faire le lien avec le "cable" et la carte de la PiCam              |<blockquote> :red_circle: </blockquote><br>         |           |
 
 
 ## Mécanique:
