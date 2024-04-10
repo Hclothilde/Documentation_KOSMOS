@@ -10,7 +10,6 @@
 ## Connecteur:
 | Visuel | Référence | Quantité | Dénomination | Usage |Substituabilité | Tips/Conseil |
 |-------:|-----------|----------|--------------------------|--------------------|---------------------|----------|
-|![connecteur pression](/../µKOSMOS/docs/pictures/equipments/caisson_video/valve_pression.PNG)        |[BR-100804](https://bluerobotics.com/store/cables-connectors/penetrators/vent-asm-r1/)           |         1| connecteur de la valve de pression         |"Permet de purger le dispositif"                         |<blockquote> :red_circle: </blockquote><br>         |           |
 |![kit terminaison](/../µKOSMOS/docs/pictures/equipments/caisson_video/terminaison_kit.PNG)        |[COB-3180-SS](https://bluerov-solutions.com/produkt/cobalt-series-cable-termination-kit-regular/)          |         1|8 pin terminaison kit       |Protège le connecteur lorsque le cable n'est pas branché  Une partie du kit est utiliser sur la cable                         |<blockquote> :red_circle: </blockquote><br>         |           |
 |![8pin](/../µKOSMOS/docs/pictures/equipments/caisson_video/8pin_connector.png)        |[COB-138C-SH](https://rov-expert.fr/blue-trail-engineering/498-cobalt-8-pin-connector-on-custom-length-cable-double-ended-shielded.html)        |         1| Connecteur 8 pin           |Permet de faire le lien avec le "cable" et la carte de la PiCam              |<blockquote> :red_circle: </blockquote><br>         |           |
 
@@ -22,7 +21,7 @@
 |![oRing_flange](/../µKOSMOS/docs/pictures/equipments/caisson_video/oring_flange.PNG)        |[BR-100628-998](https://bluerobotics.com/store/watertight-enclosures/2-series/wte-flange-vp/)          |         1| 2'' O-Ring Flange       |Ferme le haut du tube                         |<blockquote> :red_circle: </blockquote><br>         |           |
 |![transparent_cap](/../µKOSMOS/docs/pictures/equipments/caisson_video/transparent_cap.PNG)        |[BR-100094](https://bluerobotics.com/store/watertight-enclosures/2-series/wte-end-cap-vp/)          |         1| 2'' End Cap Acrylic       |S'assemble sur O-Ring Flange pour fermer le haut du tube                         |<blockquote> :red_circle: </blockquote><br>         |           |
 |![tube_etanche](/../µKOSMOS/docs/pictures/equipments/caisson_video/tube.png)        |[BR-100534-100](https://bluerobotics.com/store/watertight-enclosures/locking-series/wte-locking-tube-r1-vp/)           |         1| tube étanche     diametre: 50mm  longueur: 100mm  + 2 socles         |Abrite l'installation de la camera             |<blockquote> :red_circle: </blockquote><br>         |           |
-|![vent m10](/../µKOSMOS/docs/pictures/equipments/caisson_video/ventm10.PNG)        |[BR-100783](https://bluerobotics.com/store/cables-connectors/penetrators/vent-asm-r1/)          |         1|valve de pression M10       | valve qui vient se fermer le connecteur                 |<blockquote> :red_circle: </blockquote><br>         |           |
+|![connecteur pression](/../µKOSMOS/docs/pictures/equipments/caisson_video/valve_pression.PNG)        |[BR-100804](https://bluerobotics.com/store/cables-connectors/penetrators/vent-asm-r1/)           |         1| valve de pression         |"Permet de purger le dispositif"                         |<blockquote> :red_circle: </blockquote><br>         |           |
 
 
 ## Impresion 3D:
