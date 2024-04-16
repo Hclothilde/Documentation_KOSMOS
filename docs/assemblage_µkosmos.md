@@ -91,8 +91,8 @@
 > Si votre boitier est différent réfléchisser à la meilleur manière de l'organiser à l'intérieur
 
 - percer des trous pour les connecteurs et leurs vis
-  - (1) connecteur bulgin : un trou de 22mm de diamètre et 2 trous de 3.5mm (vis)
-  - (2) connecteur ethernet : un trou de 27mm de diamètre
+  - (1) connecteur HDMI femelle/femelle : un trou de 22mm de diamètre et 2 trous de 3.5mm (vis)
+  - (2) connecteur ethernet femelle/femelle : un trou de 27mm de diamètre
   - (3) bouton poussoir : un trou de 16mm de diamètre
   - (4) commutateur : un trou de 29mm * 22mm
   - (5) ventillateur : un trou de 26mm de diamètre et 4 trous de 3mm (vis)
