@@ -38,6 +38,6 @@
 ## Consommable:
 | Visuel | Référence | Quantité | Dénomination | Usage |Substituabilité | Tips/Conseil |
 |-------:|-----------|----------|--------------------------|--------------------|---------------------|----------|
-|![mousse_ruban](/../µKOSMOS/docs/pictures/equipments/trepied/mousse_ruban.PNG)   |[RS-PRO 619-1786](https://fr.rs-online.com/web/p/rubans-mousse/6191786)           |         1| mousse en ruban          |Permet d'avoir un contact parfait avec le tube plexy|<blockquote> :green_circle: </blockquote><br>         |          |
+|![mousse_ruban](/../µKOSMOS/docs/pictures/equipments/trepied/mousse_ruban.PNG)   |[RS-PRO 619-1786](https://fr.rs-online.com/web/p/rubans-mousse/6191786)           |         1| mousse en ruban          |Permet d'avoir un contact parfait avec le tube plexy|<blockquote> :green_circle: </blockquote><br>         | Peut être remplacer par un morceau de neoprene que l'on colle          |
 |![serre cable](/../µKOSMOS/docs/pictures/equipments/trepied/serre_cable.PNG)        |[RS PRO 233-465](https://fr.rs-online.com/web/p/serre-cables/0233465?gb=s)           |         3|serre cable 150mm  | Maintient les plombs maquereaux   |<blockquote> :green_circle: </blockquote><br>         |          |
 
