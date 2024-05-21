@@ -39,5 +39,4 @@
 |<img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/25f353caef0b6f643051fd3b70f6bdccc4943b19/docs/pictures/equipments/caisson_video/vis_m3_40mm.PNG" width="150"/>        |[RS PRO 914-1652](https://fr.rs-online.com/web/p/vis-a-metaux/9141652)           |         4|vis M3 * 40mm                |Permet de fixer la Pi Cam au flange cap du tube     |<blockquote> :red_circle: </blockquote><br>         |           |
 
 
-
 (Les images proviennent des sites constructeurs)

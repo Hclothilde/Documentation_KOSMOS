@@ -4,6 +4,7 @@ indice substituabilité :
 - :orange_circle: : certains paramètres du composant non modifiables
 - :green_circle: : composant modifiable
 
+
 ## Electronique:
 | Visuel | Référence | Quantité | Dénomination | Usage |Substituabilité | Tips/Conseil |
 |-------:|-----------|----------|--------------------------|--------------------|---------------------|----------|
@@ -16,7 +17,6 @@ indice substituabilité :
 |![manette_Xbox](/../µKOSMOS/docs/pictures/equipments/boitier/manette_xbox__gaming_receiver.PNG)        |[gaming_receiver](https://www.amazon.fr/Dhaose-Contr%C3%B4leur-Vibration-Bluetooth-Ergonomique/dp/B08JGMFRGC/ref=sr_1_5?adgrpid=572275035&hvadid=80607978251784&hvbmt=be&hvdev=c&hvlocphy=127027&hvnetw=s&hvqmt=e&hvtargid=kwd-9285639436%3Aloc-66&keywords=manette+xbox+360+sans+fil&)          |         1| Manette Xbox + Wireless gaming receiver     |Permet de controller kosmos (mouement, camera)  Permet de faire le lien avec la manète de Xbox et la crte raspberry                |<blockquote> :red_circle: </blockquote><br>         |          |
 |![raspberry](/../µKOSMOS/docs/pictures/equipments/boitier/raspberry_.png)        |[RASPBERRY-PI RPI4-MODBP-4GB](https://fr.farnell.com/raspberry-pi/rpi4-modbp-4gb/raspberry-pi-4-model-b-4gb/dp/3051887?st=rpi4) |         1| raspberry PI4 4GB        |Contient le programme de fonctionnement du µkosmos     |<blockquote> :red_circle: </blockquote><br>         |          |
 |![ventilateur](/../µKOSMOS/docs/pictures/equipments/boitier/ventilateur_.png)        |[MULTICOMP MC002684](https://fr.farnell.com/multicomp/mc002684/ventilateur-40x40x10mm-5vdc/dp/3050784) |         1| ventilateur 5V          |Permet de refroidir le système      |<blockquote> :orange_circle: _5V_ </blockquote><br>         |          |
-
 
 ## Cable:
 | Visuel | Référence | Quantité | Dénomination | Usage | Substituabilité | Tips/Conseil |
@@ -72,7 +72,6 @@ indice substituabilité :
 - kit de soudure
 - pistolet chauffant ou briquet
 - cuteur
-
 
 
 (Les images proviennent des sites fournisseurs)
