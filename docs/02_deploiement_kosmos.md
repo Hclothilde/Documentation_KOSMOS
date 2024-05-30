@@ -42,12 +42,17 @@ Toujours dans le terminal, vérifier que vous êtes bien sur la branche `dev_ste
 >Pour être optimal, les réglages doivent s'effectuer dans une atmosphère lumineuse
 >
 
+- Nettoyer le filtre de la caméra et l'objetif avec un produit pour nettoyer les lunettes et un mouchoir  
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_133153.jpg"  width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/625baca5165fd10687bc62d41e5b58c40a94cf53/docs/pictures/deploiement/objectif.jpg"  width="300"/>
 - Démarrer la caméra
-- Régler l'ouverture de l'objectif entre 2.8 et 4
-- Placer une mire à environ 5m
+- Régler l'ouverture de l'objectif entre 2.8 et 4  
+   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
+- Placer une mire à environ 5m  
+   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/625baca5165fd10687bc62d41e5b58c40a94cf53/docs/pictures/deploiement/mire.jpg"  width="300"/>
 - Connecter vous à l'interface web (10.42.0.1)
 - Vérifier avec le live ou le preview de la caméra que la mire est net, modifier le focus si nécessaire
-- Serrer la vis pour fixer les réglages de la caméra
+- Serrer la vis pour fixer les réglages de la caméra  
+   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
 - Vérifier que l'image est toujours net et que les paramètres n'ont pas bougé en serrant la vis
 
 ### Lubrification des joints
@@ -56,19 +61,28 @@ Toujours dans le terminal, vérifier que vous êtes bien sur la branche `dev_ste
 >Cette étape est indispensable et est à réaliser avec soin, elle assure l'étanchéité du système
 >
 
-- Déviser les connecteurs des caps
-- Vérifier qu'il n'y ait pas de cheveux sur vos joints
-- Graisser chaque joints (la couche de graisse doit être fine et homogène)
-- Reviser les connecteurs sans oublier les joints
+- Déviser les connecteurs des caps  
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/625baca5165fd10687bc62d41e5b58c40a94cf53/docs/pictures/deploiement/joints.jpg"  width="300"/>
+- Vérifier qu'il n'y ait pas de cheveux sur vos joints  
+- Graisser chaque joints (la couche de graisse doit être fine et homogène)  
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_133335.jpg"  width="300"/>
+- Reviser les connecteurs sans oublier les joints  
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_135641.jpg"  width="300"/>
+- Serrer pour assurer l'étanchéité  
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_134519.jpg"  width="300"/> 
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_134512.jpg"  width="300"/>
 
 - Déviser les caps des extrémitées (hublot transparent, et caps noir)
-- Répéter les opérations ci dessus
+- Répéter les opérations ci dessus  
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
 
 - Enlever les joints autour des "entretoises"
-- Répéter les opérations ci dessus
+- Répéter les opérations ci dessus  
+  <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
 
 ### Encapsulation
-- Fermer le caisson étanche
+- Fermer le caisson  
+   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
 
 ### Vérification du fonctionnement géneral de Kosmos
 - Démarrer la caméra
