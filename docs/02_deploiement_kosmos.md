@@ -32,9 +32,9 @@ git pull //Récupérer la dernière version du code
 - Vérifier que les dossiers CSV et Vidéo de la clé USB sont bien vides pour ne pas avoir de porblème de stockage
 
 ### 2.2- Vérification de la partie hardware
-### Vérification des engrenages moteurs
+### Vérification des engrenages moteur
 - Ouvrer le caisson des engrenages du moteur
-- Faire tourner les engrenage manuellement pour s'assurer que rien ne bloque
+- Faire tourner les engrenages manuellement pour s'assurer que rien ne bloque
 
 ### Mise au point de la caméra
 
@@ -42,18 +42,18 @@ git pull //Récupérer la dernière version du code
 >Pour être optimal, les réglages doivent s'effectuer dans une atmosphère lumineuse
 >
 
-- Nettoyer le filtre de la caméra et l'objetif avec un produit pour nettoyer les lunettes et un mouchoir  
+- Nettoyer le filtre de la caméra et l'objectif avec un produit pour nettoyer les lunettes et un mouchoir  
   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_133153.jpg"  width="300"/> <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/625baca5165fd10687bc62d41e5b58c40a94cf53/docs/pictures/deploiement/objectif.jpg"  width="300"/>
 - Démarrer la caméra
 - Régler l'ouverture de l'objectif entre 2.8 et 4  
    <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
 - Placer une mire à environ 5m  
    <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/625baca5165fd10687bc62d41e5b58c40a94cf53/docs/pictures/deploiement/mire.jpg"  width="300"/>
-- Connecter vous à l'interface web (10.42.0.1)
+- Connectez vous à l'interface web (10.42.0.1)
 - Vérifier avec le live ou le preview de la caméra que la mire est net, modifier le focus si nécessaire
 - Serrer la vis pour fixer les réglages de la caméra  
    <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/d7f3a26780ae5b1e7ddae37c8ff18bae6e9926e9/docs/pictures/assembly_guide/ventilateur_cable.jpg"  width="300"/>
-- Vérifier que l'image est toujours net et que les paramètres n'ont pas bougé en serrant la vis
+- Vérifier que l'image est toujours net et que les paramètres n'ont pas bougés en serrant la vis
 
 ### Lubrification des joints
 
@@ -64,7 +64,7 @@ git pull //Récupérer la dernière version du code
 - Déviser les connecteurs des caps  
   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/625baca5165fd10687bc62d41e5b58c40a94cf53/docs/pictures/deploiement/joints.jpg"  width="300"/>
 - Vérifier qu'il n'y ait pas de cheveux sur vos joints  
-- Graisser chaque joints (la couche de graisse doit être fine et homogène)  
+- Graisser chaque joint (la couche de graisse doit être fine et homogène)  
   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_133335.jpg"  width="300"/>
 - Reviser les connecteurs sans oublier les joints  
   <img src="https://github.com/Hclothilde/Documentation_KOSMOS/blob/adc2675e04b3d96cb68db356ca6d8d6eab2f4403/docs/pictures/deploiement/IMG_20240522_135641.jpg"  width="300"/>
@@ -86,7 +86,7 @@ git pull //Récupérer la dernière version du code
 
 ### Vérification du fonctionnement géneral de Kosmos
 - Démarrer la caméra
-- Connecter vous à l'interface web (10.42.0.1)
+- Connectez vous à l'interface web (10.42.0.1)
 - Vérifier les paramètres dans l'onglet config:
    - 00_system_mode :
    - 01_system_record_button_gpio :
@@ -115,7 +115,7 @@ git pull //Récupérer la dernière version du code
 - Vérifier avec le live que la caméra est positionnée de façon à ce que l'image soit droite
 - Démarer une vidéo
 - Observer si le moteur tourne correctement
-- Arreter la video et vérifier que l'enregistrement c'est bien passé (création d'un fichier cvs et conversion du fichier video h264 en mp4)
+- Arreter la video et vérifier que l'enregistrement c'est bien passé (création d'un fichier cvs et conversion du fichier vidéo h264 en mp4)
 
 
   
