@@ -66,10 +66,37 @@ Toujours dans le terminal, vérifier que vous êtes bien sur la branche `dev_ste
 ### Vérification du fonctionnement géneral de Kosmos
 - Démarrer la caméra
 - Connecter vous à l'interface web (10.42.0.1)
-- Vérifier quelque paramètres dans l'onglet config:
-  - shutdown = 1
-  - preview = 0
-  - moteur = 1
+- Vérifier les paramètres dans l'onglet config:
+   - 00_system_mode :
+   - 01_system_record_button_gpio :
+   - 02_system_stop_button_gpio :
+   - 03_system_led_b :
+   - 04_system_led_r :
+   - 05_system_shutdown :
+   - 06_system_moteur :
+<br>
+
+   - 10_motor_esc_gpio :
+   - 11_motor_power_gpio :
+   - 12_motor_button_gpio :
+   - 13_motor_vitesse_min : 
+   - 14_motor_vitesse_favorite : 
+   - 15_motor_pause_time : 
+<br>
+
+   - 20_csv_step_time : 
+   - 21_csc_file_name : 
+<br>
+
+   - 30_picam_file_name : 
+   - 31_picam_resolution_x : 
+   - 32_picam_resolution_y : 
+   - 33_picam_preview :
+   - 34_picam_framérate : 
+   - 35_picam_record_time :
+   - 36_picam_conversion_mp4 :
+   - 37_picam_awb :
+     
 - Vérifier avec le live que la caméra est positionner de façon à ce que l'image soit droite
 - Démarer une vidéo
 - Observer si le moteur tourne correctement
