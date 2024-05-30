@@ -3,8 +3,8 @@
 <details open>
   <summary> Sommaire </summary>
   
-  1. [Démarage](deploiement_kosmos.md#1--démarage)
-  2. [Remise en route](deploiement_kosmos.md#2--remise-en-route)
+  1. [Démarage](02_deploiement_kosmos.md#1--démarage)
+  2. [Remise en route](02_deploiement_kosmos.md#2--remise-en-route)
       
 </details>
 
