@@ -25,10 +25,10 @@ cat /ect/os-release
 ### Vérification du programme
 - Vérifier ensuite que le code est à jour
 Toujours dans le terminal, vérifier que vous êtes bien sur la branche `dev_stereo` et récupérer la dernière version du code
-  ```
-  git checkout dev_stereo //Vérifier la branche sur laquelle on se trouve
-  git pull //Récupérer la dernière version du code
-  ```
+```
+git checkout dev_stereo //Vérifier la branche sur laquelle on se trouve
+git pull //Récupérer la dernière version du code
+```
 - Vérifier que les dossiers CSV et Vidéo de la clé USB sont bien vides pour ne pas avoir de porblème de stockage
 
 ### 2.2- Vérification de la partie hardware
